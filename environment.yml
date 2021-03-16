@@ -7,3 +7,8 @@ dependencies:
   - python
   - snakemake
   - acanthophis
+  - seqhax
+  - git-annex
+  - pynvim
+  - ncdu
+  - tree
