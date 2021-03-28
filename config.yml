@@ -66,9 +66,10 @@ qc:
 kraken:
   dburls:
     PlusPFP: "https://genome-idx.s3.amazonaws.com/kraken/k2_pluspfp_20210127.tar.gz"
+    PlusPFP16: "https://genome-idx.s3.amazonaws.com/kraken/k2_pluspfp_16gb_20210127.tar.gz"
   samplesets:
     HBDecra:
-      - PlusPFP
+      - PlusPFP16
 
 
 #######################################################################
@@ -145,3 +146,30 @@ varcall:
           ALT != "." &&
           INFO/DP >= 5 &&
           INFO/AN >= 3'
+
+#######################################################################
+#                        Cluster Configuration                        #
+#######################################################################
+# Here one can set the resources each job will request from the cluster. 
+cluster_resources:
+  #DEBUG: True  # this will dump all the 
+  defaults:
+    mem_gb: 2
+    time_min: 60
+    queue: normal
+  max_values:
+    mem_gb: 192
+    time_min: 2880 # 48h
+  rules:
+    # A mapping of rule_name: resource overrides, e.g.
+    # qcreads:
+    #   mem_gb: 192
+    #   time_min: 2880 # 48h
+    rawreads_from_il:
+      time_min: 30
+    rawreads_from_r1r2:
+      time_min: 30
+    bam_markdups_sort:
+      localdisk_gb: 200
+    kraken:
+      time_min: 60

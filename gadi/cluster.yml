@@ -1,6 +1,5 @@
 __default__:
-  queue: normal
-  time: '1:00:00'
   project: xe2
-  name: "SNK_{rule}"
+  storage: "gdata/xe2+scratch/xe2"
   output: "data/log/cluster/"
+  DEBUG: True

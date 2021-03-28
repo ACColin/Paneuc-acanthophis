@@ -4,7 +4,7 @@ import subprocess
 import os
 import os.path
 from shlex import quote
-
+from sys import stdin, stdout, stderr
 from snakemake.utils import read_job_properties
 
 parser=argparse.ArgumentParser(add_help=False)
@@ -15,7 +15,7 @@ parser.add_argument("jobscript")
 
 args = parser.parse_args()
 
-cmd = ["qsub"]
+cmd = ["qsub", "-l wd -j oe"]  # always start in wd, always join out/err logs
 
 job_properties = read_job_properties(args.jobscript)
 resources = job_properties.get("resources", {})
@@ -24,7 +24,8 @@ cluster = job_properties.get("cluster", {})
 # dependencies
 if args.depend:
     depstr = ":".join(args.depend.split(" "))
-    cmd.append(f"-W 'depend=afterok:{depstr}'")
+    cmd.append("-W")
+    cmd.append(quote(f"depend=afterok:{depstr}"))
 
 # threads
 threads = job_properties.get("threads", 1)
@@ -38,15 +39,35 @@ cmd.append(f"-l 'mem={mem}G'")
 time_min = resources.get("time_min", 60)
 cmd.append(f"-l 'walltime={time_min}:00'")
 
+# jobfs
+localdisk_gb = resources.get("localdisk_gb", 10)
+cmd.append(f"-l 'jobfs={localdisk_gb}G'")
+
+# storage
+# a special NCI pbs resource that mounts FSes
+
+if "storage" in cluster:
+    cmd.append(f"-l storage={quote(cluster['storage'])}")
+
+project = cluster.get("project", "xe2")
+cmd.append(f"-P {quote(project)}")
+
 # queue
-queue="normal"
+# defaults: normal, unless internet=true
+queue = "normal"
 if resources.get("internet", False):
     queue="copyq"
+# override with queue from resources
+queue = resources.get("queue", queue)
 cmd.append(f"-q '{queue}'")
 
 # logs
+out = None
 if "output" in cluster:
     out = cluster["output"]
+if "output" in resources:
+    out = resources["output"]
+if out:
     os.makedirs(out, exist_ok=True, mode=0o775)
     cmd.append(f"-o {out}")
 
@@ -54,5 +75,7 @@ cmd.append(args.extra)
 cmd.append(args.jobscript)
 cmd = " ".join(cmd)
 
-res = subprocess.check_output(cmd, check=True, shell=True, stdout=subprocess.PIPE)
+if cluster.get("DEBUG", False):
+    print(cmd, file=stderr)
+res = subprocess.check_output(cmd, shell=True).decode()
 print(res.strip())
