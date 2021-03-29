@@ -40,6 +40,16 @@ refs:
     # custom translation codes etc.  See the snpEff documentation.
     organism: Eucalyptus grandis
     snpeff_extra_config: ""
+  Emelliodora_GCA_004368105.2:
+    fasta: "rawdata/references/Emelliodora_GCA_004368105.2/GCA_004368105.2_ASM436810v2_genomic.fa"
+    gff: "rawdata/references/Emelliodora_GCA_004368105.2/E_melliodora~filtered.gtf"
+    organism: Eucalyptus melliodora
+    snpeff_extra_config: ""
+  Esideroxylon_GCA_014182405.1:
+    fasta: "rawdata/references/Esideroxylon_GCA_014182405.1/GCA_014182405.1_ASM1418240v1_genomic.fa"
+    gff: "rawdata/references/Esideroxylon_GCA_014182405.1/E_sideroxylon~filtered.gtf"
+    organism: Eucalyptus sideroxylon
+    snpeff_extra_config: ""
 
 
 #######################################################################
@@ -91,8 +101,7 @@ align:
     - bwa
   refs:
     - Egrandis_phytozome13_v2
-  samplesets:
-    - HBDecra
+  samplesets: []
   ngm: # tool specific settings
     sensitivity: 0.5
   abra2:
@@ -132,6 +141,8 @@ varcall:
         - mpileup
       refs:
         - Egrandis_phytozome13_v2
+        - Esideroxylon_GCA_014182405.1
+        - Emelliodora_GCA_004368105.2
       filters:
         - default
       snpeff: True
