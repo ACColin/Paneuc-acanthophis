@@ -1,0 +1,69 @@
+```{r}
+library(tidyverse)
+```
+
+```{r}
+
+hb420 = read_tsv("HMB_WGS_metadata_all420.txt") %>%
+    filter(!SampleID %in% c("NSW0569"))
+runlib = read_tsv("../runlib2sample.tsv")
+```
+
+
+```{r}
+missing = hb420[!(hb420$SampleID %in% runlib$sample),]
+missing
+```
+
+```{r}
+
+hb420
+
+
+
+```
+
+
+```{r}
+old_meta = read_csv("../../../../paneuc/metadata/sample-metadata.csv")
+old_melsid = old_meta %>%
+    filter(grepl("melliodora|sideroxylon", Species, perl=T), !is.na(Latitude), !is.na(Longitude)) %>%
+    filter(!SampleID %in% hb420$SampleID)
+old_cov = read_csv("../../../../paneuc/metadata/reads_by_sample.csv") %>%
+    select(sample, theoretical_coverage)
+old_melsid = left_join(old_melsid, old_cov, by=c("SampleID"="sample"))
+
+View(old_melsid)
+
+hist(old_melsid$theoretical_coverage, breaks=30)
+abline(v=9)
+
+table(old_melsid$theoretical_coverage > 9)
+
+
+
+```
+
+```{r}
+outgroup_candidates =  old_meta %>%
+    left_join(old_cov, by=c("SampleID"="sample")) %>%
+    filter(!grepl("melliodora|sideroxylon", Species, perl=T), 
+           theoretical_coverage > 9,
+           !is.na(Latitude))
+View(outgroup_candidates)
+write_tsv(outgroup_candidates, "outs.tsv")
+selected_outs = read_tsv("outs.tsv")
+```
+
+```{r}
+hb_extended =  c(
+    hb420$SampleID,
+    old_melsid %>%
+        filter(theoretical_coverage > 9) %>%
+        pull(SampleID),
+    selected_outs$SampleID)
+
+writeLines(hb_extended, "../samplesets/HBDecraExtended.txt")
+```
+
+

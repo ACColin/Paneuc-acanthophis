@@ -1,0 +1,421 @@
+SampleID,Species,Latitude,Longitude,Altitude_m,Datum,Date,Seed,Collectors,Location,Comments,Trip_comments,Reads,Theoretical_coverage
+CCA0704,Eucalyptus melliodora,-32.71222222,149.9661111,NA,WGS84,NA,NA,NA,NSW,NA,NA,86198801,19.45993665
+EMW0001,Eucalyptus melliodora,-36.18417333,150.0986026,121.3435516,WGS84,2019-01-20T20:04:01Z,Y,Helen Bothwell & Susan Rutherford,Wombeyan Cave Rd.,,,122681326,26.9908096
+EMW0002,Eucalyptus melliodora,-34.29426229,150.0163724,163.0970959,WGS84,2019-01-20T20:57:36Z,Y,Helen Bothwell & Susan Rutherford,Wombeyan Cave Rd.,,,105425513,23.04239942
+EMW0003,Eucalyptus melliodora,-34.2938706,150.0160115,169.7630332,WGS84,2019-01-20T21:27:50Z,Y,Helen Bothwell & Susan Rutherford,Wombeyan Cave Rd.,,,121443883,26.73404361
+EMW0004,Eucalyptus melliodora,-34.30037412,150.0047701,193.350133,WGS84,2019-01-20T22:08:09Z,Y,Helen Bothwell & Susan Rutherford,Wombeyan Cave Rd.,,,46966287,10.31157354
+EMW0005,Eucalyptus melliodora,-34.30002065,150.0023791,198.5510064,WGS84,2019-01-20T22:25:27Z,Y,Helen Bothwell & Susan Rutherford,Wombeyan Cave Rd.,Has lots of galls - haven't seen galls on other trees in this area,,39786628,8.539218942
+EMW0006,Eucalyptus melliodora,-34.31277473,150.0875892,82.37350211,WGS84,2019-01-20T23:33:00Z,Y,Helen Bothwell & Susan Rutherford,Wombeyan Cave Rd.,,,59579563,13.08462219
+ENE0014,Eucalyptus melliodora,-29.84946,152.00108,NA,WGS84,2017-11-22T00:00:00Z,NA,NA,HRF1,NA,NA,92614752,19.55345102
+ENE0026,Eucalyptus melliodora,-30.51734,151.97252,NA,WGS84,2017-11-24T00:00:00Z,NA,NA,Waterfall Way 2,NA,NA,106207474,22.50033632
+GOL0001,Eucalyptus melliodora,-35.20836473,149.2588769,647.088135,WGS84,2019-03-19T17:22:22Z,N,Helen Bothwell & Kevin Murray,"S from M23 to Sutton Rd., then dirt rd. W",,,38578836,8.468301066
+GOL0002,Eucalyptus melliodora,-35.24763865,149.2807351,792.967285,WGS84,2019-03-19T17:47:09Z,N,Helen Bothwell & Kevin Murray,"S on Sutton Rd., E on Norton Rd, N on Fernloff","Big, old tree; sampled resprout from base of trunk",,49039518,10.50110964
+GOL0003,Eucalyptus melliodora,-35.28911448,149.4522442,738.412842,WGS84,2019-03-19T18:58:39Z,Y,Helen Bothwell & Kevin Murray,S out of Bungendore on Gidleigh Lane,"VERY fecund tree; many low branches, easy to sample",,59402184,13.06113801
+GOL0004,Eucalyptus melliodora,-35.29944534,149.4607546,749.708008,WGS84,2019-03-19T19:22:07Z,Y,Helen Bothwell & Kevin Murray,Continueing S on Gidleigh Ln,"Some seed, but all green, looks like this years not yet matured",,72347489,15.85419252
+GOL0005,Eucalyptus melliodora,-35.31586063,149.4957254,807.867432,WGS84,2019-03-19T20:00:03Z,Y,Helen Bothwell & Kevin Murray,Continueing S on Gidleigh Ln,"Few seed, but all green, looks like this years not yet matured",,57486998,12.41262711
+GOL0006,Eucalyptus melliodora,-35.59996331,149.8112832,631.226807,WGS84,2019-03-19T22:49:11Z,N,Helen Bothwell & Kevin Murray,"Sawyer's Ridge Rd, E of Araluen Rd. S of Braidwood","Higher elevation, few Emel, lots of E. viminalis and Angophora that could be hybridizing w/ these",,71310349,15.59107053
+GOL0007,Eucalyptus melliodora,-35.60009432,149.8113898,630.265381,WGS84,2019-03-19T22:50:12Z,N,Helen Bothwell & Kevin Murray,"Sawyer's Ridge Rd, E of Araluen Rd. S of Braidwood","Only ~10m from GOL0006; looks pretty reliable, but not totally sure it's E. mel; resprouted from v. old stump; lots of Angophora and ribbon gum that may be hybridizing w/ these two",,54917356,12.0488003
+GOL0008,Eucalyptus melliodora,-35.6729831,149.8309023,158.501953,WGS84,2019-03-19T23:39:30Z,Y,Helen Bothwell & Kevin Murray,Araluen Rd,"Two trunks, one w/ very Emel leaves (broader), the other trunk with thinner, narrower leaves - could be different ontogeny",,58693940,12.84256509
+GOL0009,Eucalyptus melliodora,-35.68992904,149.8492569,146.485474,WGS84,2019-03-20T00:00:55Z,N,Helen Bothwell & Kevin Murray,Araluen Rd,"Big, old tree, leaves a bit long & bark a bit pealy, but probably a good Emel, leaves nicely glaucous; lots of ribbonbark in area",,42186017,9.155553656
+GOL0010,Eucalyptus melliodora,-35.34229933,149.8506001,696.836182,WGS84,2019-03-27T10:18:07Z,N,Helen Bothwell,"N out of Braidwood on Nerriga Rd., then W on Brightside Rd. (dirt)",Seed too green or too old (already released),"E. melliodora quite rare on this trip, perhaps due to being on far eastern edge of their range, but also mass ag clearing associated with their valley/lower elevation open woodland habitat; E. viminalis very common, also lots of red gum and snow gum, some E. bridgesiana, what I think is likely E. fastigata, and E. polyanthemos, E. blakelyi, etc.",57701555,12.49331777
+GOL0011,Eucalyptus melliodora,-35.34337733,149.8529949,707.4104,WGS84,2019-03-27T10:34:12Z,Y,Helen Bothwell,"N out of Braidwood on Nerriga Rd., then W on Brightside Rd. (dirt)","*Seeds may be a bit too young. Bark looks perfect Emel; seeds have 6 valves instead of the typical 5; ~100m from #10, but had seeds so collected",,54093995,11.92609871
+GOL0012,Eucalyptus melliodora,-35.3077793,149.8785983,630.746094,WGS84,2019-03-27T11:18:19Z,Y,Helen Bothwell,"Nerriga Rd., large grassy pull-off on left side","*Seeds green; mid-younger tree; seeds really easy to reach and TONS of them, could come back when matured",,67521192,14.84866785
+GOL0013,Eucalyptus melliodora,-35.0883332,150.1207641,560.329834,WGS84,2019-03-27T12:46:20Z,N,Helen Bothwell,"End of Nerriga Rd before entering Morton National Park; pull in entrance between two chainlink fences, small pullout just past the entrance on the right",,,58705103,12.74630677
+GOL0014,Eucalyptus melliodora,-35.09359863,150.1175408,589.649902,WGS84,2019-03-27T12:54:38Z,N,Helen Bothwell,Pulloff on east side of Nerriga Rd. heading back S,"Collected a single seed, simply verifying taxonomy - typical Emel 5-valved",,58519333,12.8941308
+GOL0015,Eucalyptus melliodora,-35.11480426,149.9193022,628.102539,WGS84,2019-03-27T14:12:28Z,N,Helen Bothwell,"Oallen Ford Rd west, then turn rt. on Jerralong Rd; tree just about 8 meters from intersection",,,58412575,12.83068421
+GOL0016,Eucalyptus melliodora,-35.0892744,149.9074582,585.804688,WGS84,2019-03-27T14:40:32Z,N,Helen Bothwell,Worton Rd. (?) off Oallen Ford Rd.,"Young tree, didn't look reproductively mature",,55677858,12.23934259
+GOL0017,Eucalyptus melliodora,-35.064829,149.8654812,596.37915,WGS84,2019-03-27T15:11:16Z,N,Helen Bothwell,Pulloff on W side of Oalla Ford Rd.,,,52788025,11.60895087
+GOL0018,Eucalyptus melliodora,-35.08290416,149.8458555,605.27124,WGS84,2019-03-27T15:33:37Z,Y,Helen Bothwell,"Sandy Pt. rd W of Oalla Ford Rd., pulloff on N side of the rd.","Great seed tree! And seeds looked mature, nicely dried; collected a LOT.",,62985645,13.61168485
+GOL0019,Eucalyptus melliodora,-35.0929072,149.8306888,633.14917,WGS84,2019-03-27T16:04:46Z,Y,Helen Bothwell,Continue W on Sandy Point Rd.,"Seeds nicely dried, look really good; some leaves longer and narrower than other Emel in area, but also many smaller, typicaly obovate young growth; old, gnarled tree; lots of aphids and ants on stems, fought them for the seeds",,74874444,16.46479035
+GOL0020,Eucalyptus melliodora,-35.11568679,149.8138964,630.265381,WGS84,2019-03-27T16:25:36Z,N,Helen Bothwell,"Continuing W down Sandy Point Rd. after it turns to dirt, past turn to Willow Glen Rd.",Young tree next to older E. mel; ,,73121002,16.03612134
+GOL0021,Eucalyptus melliodora,-35.10303673,149.8190508,631.226807,WGS84,2019-03-27T16:38:38Z,N,Helen Bothwell,"Continuing W down Sandy Point Rd. after it turns to dirt, past turn to Willow Glen Rd.","Great dirt road, v. little traffic and seems prime E. mel area; likely more down this road if we want to collect more in this area",,70413656,15.15729862
+GOL0022,Eucalyptus melliodora,-34.96374845,149.8216151,655.73999,WGS84,2019-04-01T11:32:18Z,N,Helen Bothwell,"N to Tarago, Cullala Rd east, then N on Lumley Rd.","Small shoot off a big, old tree",,67207355,14.732201
+GOL0023,Eucalyptus melliodora,-34.95464193,149.8286439,643.24292,WGS84,2019-04-01T11:40:51Z,Y,Helen Bothwell,Continuing NE on Lumley Rd.,"Good seed tree; big, old; quite a bit of what I think is E. polyanthemous in this area",,61574454,13.50375837
+GOL0024,Eucalyptus melliodora,-34.91414376,149.8963593,641.801025,WGS84,2019-04-01T12:26:36Z,N,Helen Bothwell,Continuing NE on Lumley Rd.,"Big, old tree; possible hybrid?, leaves see greener and maybe a bit pointier than usual E. mel??",,45039014,9.551703037
+GOL0025,Eucalyptus melliodora,-34.90062333,149.9203847,635.55249,WGS84,2019-04-01T12:52:41Z,Y,Helen Bothwell,Continuing NE on Lumley Rd.,"LOTS of seed, but not confident in identity; think this is a different box; good box bark, but leaves longer, greener, seeds w/ 5 valves but larger than typical E. mel, umbels longer and not typically in 7, yes in leaf axial; some leaves quite broad like E. polyanthemous, but also many narrow so not E.poly; some upper bark pealing a little almost a bit ribbon-like",,50798288,11.07231777
+GOL0026,Eucalyptus melliodora,-34.85496668,149.9551925,599.503418,WGS84,2019-04-01T13:55:19Z,Y,Helen Bothwell,Howick St. E out of Bungonia towards Bungonia Nat'l Park,Hybrid?? Seeds maybe larger than typical E. mel; leaves longer/thinner?; but 5-valved fruits and 7 umbeld axilary and terminal floral clusters; good recessed leaf margins,,45412580,9.922736789
+GOL0027,Eucalyptus melliodora,-34.85478479,149.9550694,598.301758,WGS84,2019-04-01T14:20:38Z,N,Helen Bothwell,Right across the road from GOL0026,"Confident this is a good E.mel!; blue-gray glaucous leaves, younger ones ovate, axilary umbels, perfect bark, boxy below and gray-yellow streaked above",,59336718,13.13193078
+GOL0028,Eucalyptus melliodora,-34.84301266,149.9758547,574.98999,WGS84,2019-04-01T14:39:12Z,Y,Helen Bothwell,Along Howick St.,"Few seeds; mid-aged next to big, old E.mel in field but over fence; valves mostly 4 but some 5; leaves right size, shape, and glaucous",,75706162,16.74719871
+GOL0029,Eucalyptus melliodora,-34.85567085,149.9485649,585.08374,WGS84,2019-04-01T14:53:43Z,Y,Helen Bothwell,Pullout on S side of Howick St.,"TONS of good looking, mature seed; 5-valved; 100% Emel; big, old tree overhanging rd; perfect glaucous, ovate young and smaller elongated mature leaves w/ recessed margins",,38668567,8.450609474
+GOL0030,Eucalyptus melliodora,-34.82950808,149.9507709,590.37085,WGS84,2019-04-01T15:25:17Z,N,Helen Bothwell,E side of Jerrara Rd. N out of Bungonia,Young to mid-aged,,69137244,15.21237428
+GOL0031,Eucalyptus melliodora,-34.8086674,149.953166,598.061523,WGS84,2019-04-01T15:38:26Z,N,Helen Bothwell,Continuing N on Jerrara,Good E.mel,,72878680,16.09327287
+GOL0032,Eucalyptus melliodora,-34.77803011,149.9807995,646.126953,WGS84,2019-04-01T16:01:19Z,N,Helen Bothwell,Glynmar Rd. E off Jerrara Rd.,Leaves nicely glaucous and shaped,,78231439,17.26281531
+GOL0033,Eucalyptus melliodora,-34.77781638,149.9758829,642.04126,WGS84,2019-04-01T16:12:51Z,Y,Helen Bothwell,Glynmar Rd. E off Jerrara Rd.,TONS of seed,,48453108,10.68400272
+GOL0034,Eucalyptus melliodora,-34.77297993,149.964274,627.861816,WGS84,2019-04-01T16:30:00Z,Y,Helen Bothwell,"N on Jerrara Rd, pulloff on W side",TONS of seed,,32721589,7.095346674
+GOL0035,Eucalyptus melliodora,-36.23574081,149.12084,831.419678,WGS84,2019-04-03T11:55:29Z,Y,Helen Bothwell,"B23 to B72 then N on Creek St., rt. Uphill on Massie St., tree ~15m inside gate of Nanny Goat Hill Reserve & Outlook on left","Seed 5-valved, good box bark, young, recessed margin glaucous juvenile leaves and smaller, narrower mature leaves. Possibly planted ?? No other Emael for miles, but could be last remnant in ag desert. Ribbonbark (E. viminalis?) v. common, also E. pauciflora, perhaps a bit high elevation for Emel.","Drove S to Cooma; numerous Emel until ~30k N of Cooma, then nearly all valley bottom cleared for ag/grazing",63835731,14.07043291
+GOL0036,Eucalyptus melliodora,-35.85174596,149.1861647,829.49707,WGS84,2019-04-03T13:42:11Z,N,Helen Bothwell,Paveys Rd E off Monaro Hwy (B23),Perfect Emel leaves,,85570633,18.78097277
+GOL0037,Eucalyptus melliodora,-35.85356534,149.1830405,850.165039,WGS84,2019-04-03T13:56:07Z,Y,Helen Bothwell,"Close to GOL0036, but has seed","Good seed tree, 5-valved, typical leaves & bark",,52034970,11.27829586
+GOL0038,Eucalyptus melliodora,-35.84869579,149.1754083,807.386719,WGS84,2019-04-03T14:18:59Z,Y,Helen Bothwell,Paveys Rd up hill in field N of road,"Lots of good seed, typical leaves, beautiful huge old tree. Lots of Emel through here now, also E.viminalis and E.bridgisiana",,65189069,14.33932645
+GOL0039,Eucalyptus melliodora,-35.78823058,149.1674645,808.10791,WGS84,2019-04-03T14:38:11Z,Y,Helen Bothwell,E on Ryrie Hill Rd.,"Good seed and leaves, big old tree",,61572721,13.47581154
+GOL0040,Eucalyptus melliodora,-35.78673123,149.1813752,865.305908,WGS84,2019-04-03T14:56:01Z,Y,Helen Bothwell,E on Ryrie Hill Rd.,"Good seed and leaves, big old tree",,50238240,11.00267117
+GOL0041,Eucalyptus melliodora,-35.79441877,149.1830167,876.120605,WGS84,2019-04-03T15:20:34Z,Y,Helen Bothwell,E on Ryrie Hill Rd.,Seed a bit young/green,,52270793,11.47765852
+GOL0056,Eucalyptus melliodora,-34.88100406,149.6216107,701.162109,WGS84,2019-07-04T13:25:39Z,N,Helen Bothwell,Turn SW down Currawang Rd,,,74196877,15.75887401
+GOL0057,Eucalyptus melliodora,-34.77965897,149.6830312,690.827637,WGS84,2019-07-04T13:55:16Z,Y,Helen Bothwell,"Just S of M31 exit for Goulburn, go SW down Mazamet Rd, only a few seeds, 5-valved","Got a few seeds, but not many, 5-valved",,100669858,22.18328494
+GOL0058,Eucalyptus melliodora,-34.5565892,149.5649045,868.430176,WGS84,2019-07-04T15:50:46Z,N,Helen Bothwell,"NW out of Goulburn on Crookwell Rd, turn W down Pejar Rd","LOTS of Emel along here, but main road and not many good places to stop; Pejar is a great little dirt rd; no seed - tree looks pretty rough",,95621697,21.0233744
+GOL0059,Eucalyptus melliodora,-34.62917958,149.5234976,751.630615,WGS84,2019-07-04T16:40:24Z,Y,Helen Bothwell,"Pejar Rd then S on Range Rd towards Goulburn, good quiet country rd,","Towards Crookwell seemed to get higher elevation, more bridgisiana and other peppermint-like bark, no Emel; GREAT seed tree, 7 umbels, 5-6 valved fruits",,80076517,17.28210736
+GOL0060,Eucalyptus melliodora,-34.67122455,149.5781598,768.694092,WGS84,2019-07-04T17:05:36Z,N,Helen Bothwell,Thompsons Lane E off Range Rd,Lots of blakeleyii and polyanthemos now,,91347788,20.03995526
+J296,Eucalyptus melliodora,-30.65167,150.87812,NA,WGS84,2015-09-29T00:00:00Z,NA,NA,"Namoi River, Dunmore Rd",NA,NA,112646501,24.53317411
+J298+N41J1A2:M75,Eucalyptus sideroxylon,-30.15277,151.07437,NA,WGS84,2015-09-29T00:00:00Z,NA,NA,"Bundarra, Thunderbolts Way",NA,NA,167212801,35.94672465
+J300,Eucalyptus sideroxylon,-29.80812,150.91918,NA,WGS84,2015-09-30T00:00:00Z,NA,NA,"Gum Flat, Copeton Dam Rd",NA,NA,16677219,3.645087092
+J312,Eucalyptus sideroxylon,-30.60224,149.58173,NA,WGS84,2015-09-30T00:00:00Z,NA,NA,"Pilliga, Newell Hwy",NA,NA,25269358,5.631698069
+J318,Eucalyptus melliodora,-31.37365,151.13779,NA,WGS84,2015-10-11T00:00:00Z,NA,NA,"Chaffey Dam, Tamworth Nundle Rd",NA,NA,177730686,38.5019938
+J319,Eucalyptus melliodora,-31.55948,151.05664,NA,WGS84,2015-10-11T00:00:00Z,NA,NA,"Nundle, Crawney Rd",NA,NA,116678401,25.45630731
+J340,Eucalyptus melliodora,-29.45577,151.55405,NA,WGS84,2015-11-05T00:00:00Z,NA,NA,"Emmaville, Strathbogie Rd",NA,NA,130995184,28.20268097
+J342,Eucalyptus sideroxylon,-29.39087,151.39279,NA,WGS84,2015-11-05T00:00:00Z,NA,NA,"Yellow Dam, Emmaville Rd",NA,NA,279905208,61.0769255
+J346,Eucalyptus melliodora,-35.06954,148.83661,NA,WGS84,2015-11-20T00:00:00Z,NA,NA,"Mullion, Mountain Creek Rd.",NA,NA,154546896,33.15345814
+J352,Eucalyptus sideroxylon,-35.25665,147.68486,NA,WGS84,2015-11-20T00:00:00Z,NA,NA,"Tarcutta, Mates Gully Rd.",NA,NA,87606069,19.00911584
+J355,Eucalyptus sideroxylon,-36.09264,146.61917,NA,WGS84,2015-11-21T00:00:00Z,NA,NA,"Chiltern, Chiltern-Howlong Rd.",NA,NA,166966829,36.46317333
+J357,Eucalyptus melliodora,-36.019,146.29446,NA,WGS84,2015-11-21T00:00:00Z,NA,NA,"Collendina State Forest, Spring Dr.",NA,NA,149102582,32.37036847
+J358,Eucalyptus melliodora,-35.38973,146.35303,NA,WGS84,2015-11-21T00:00:00Z,NA,NA,"Urana, Walbundrie Rd.",NA,NA,106723753,22.96918149
+J359,Eucalyptus sideroxylon,-34.47594,147.40941,NA,WGS84,2015-11-21T00:00:00Z,NA,NA,"Ingalba Nature Reserve, Hwy 94",NA,NA,178029135,38.82198027
+J362,Eucalyptus sideroxylon,-33.42108,148.51126,NA,WGS84,2015-11-22T00:00:00Z,NA,NA,"Nangar Natl Park, Dripping Rock Rd.",NA,NA,147914782,32.07833338
+J365,Eucalyptus melliodora,-33.31832,148.97163,NA,WGS84,2015-11-22T00:00:00Z,NA,NA,"Glenwood State Forest, Cargo Rd.",NA,NA,238631724,51.91158082
+J367,Eucalyptus sideroxylon,-30.5285,151.15897,NA,WGS84,2015-12-15T00:00:00Z,NA,NA,"Uralla-Kingstown Rd, Kingstown",NA,NA,155734901,33.64626367
+J373,Eucalyptus melliodora,-37.46662,147.83218,NA,WGS84,2016-01-24T00:00:00Z,NA,NA,Doctors Flat,NA,NA,134004910,29.00144069
+J375,Eucalyptus melliodora,-37.40165,148.21443,NA,WGS84,2016-01-25T00:00:00Z,NA,NA,Buchan,NA,NA,154110569,33.15719716
+J385,Eucalyptus sideroxylon,-36.17434,146.66263,NA,WGS84,2016-01-29T00:00:00Z,NA,NA,Chiltern,NA,NA,286087837,62.38985835
+J387,Eucalyptus sideroxylon,-32.24456,146.18248,NA,WGS84,2016-01-29T00:00:00Z,NA,NA,Warrangatta,NA,NA,157598325,34.21768819
+J401,Eucalyptus sideroxylon,-30.44023,151.25069,NA,WGS84,2016-04-05T00:00:00Z,NA,NA,"Torreyburn Rd, Yarrowyck",NA,NA,198995842,42.76145931
+J405,Eucalyptus sideroxylon,-30.22862,151.23865,NA,WGS84,2016-04-05T00:00:00Z,NA,NA,Baldersleigh Rd,NA,NA,236252787,49.86445764
+J416,Eucalyptus sideroxylon,-30.32322,149.26971,NA,WGS84,2016-06-17T00:00:00Z,NA,NA,Weewaa,NA,NA,145966644,31.51325743
+J418,Eucalyptus sideroxylon,-31.05012,149.23013,NA,WGS84,2016-06-17T00:00:00Z,NA,NA,The Pilliga,NA,NA,188949864,40.97440909
+J421,Eucalyptus sideroxylon,-32.36597,148.23103,NA,WGS84,2016-06-23T00:00:00Z,NA,NA,Narromine,NA,NA,178896095,38.77221662
+J422,Eucalyptus sideroxylon,-32.22311,148.66797,NA,WGS84,2016-06-24T00:00:00Z,NA,NA,Dubbo,NA,NA,184154942,39.3538397
+J425i,Eucalyptus sideroxylon,-30.30756,151.20671,NA,WGS84,2016-07-09T00:00:00Z,NA,NA,Bundarra,NA,NA,140838209,30.53678318
+J430h,Eucalyptus sideroxylon,-28.56925,151.07571,NA,WGS84,2016-07-10T00:00:00Z,NA,NA,Inglewood,NA,NA,53133894,11.67186462
+J433a,Eucalyptus sideroxylon,-28.17577,151.6577,NA,WGS84,2016-07-10T00:00:00Z,NA,NA,Glendon,NA,NA,108994496,23.86556733
+J434a,Eucalyptus sideroxylon,-27.7547,152.1189,NA,WGS84,2016-07-10T00:00:00Z,NA,NA,Allora,NA,NA,103329646,22.59058396
+J435d,Eucalyptus sideroxylon,-26.36944,151.88103,NA,WGS84,2016-07-10T00:00:00Z,NA,NA,Wondai,NA,NA,119961059,26.12511271
+LBM01B01,Eucalyptus melliodora,-36.632668,144.35019,178,WGS84,NA,NA,NA,NA,NA,NA,98372807,14.65981407
+LBM01B08,Eucalyptus melliodora,-36.3675,145.70232,268,WGS84,NA,NA,NA,NA,NA,NA,77674618,11.17742578
+LBM01C02,Eucalyptus melliodora,-35.819633,145.31187,101,WGS84,NA,NA,NA,NA,NA,NA,97751615,14.46345653
+LBM01C04,Eucalyptus melliodora,-36.86476,148.85016,638,WGS84,NA,NA,NA,NA,NA,NA,145177271,21.54315552
+LBM01E06,Eucalyptus melliodora,-36.63518,149.56728,186,WGS84,NA,NA,NA,NA,NA,NA,89047057,13.21934966
+LBM01E12,Eucalyptus melliodora,-33.416668,149.55055,712,WGS84,NA,NA,NA,NA,NA,NA,78786274,11.24754459
+LBM01G05,Eucalyptus melliodora,-36.42797,144.41092,114,WGS84,NA,NA,NA,NA,NA,NA,108391616,16.23734011
+LBM01G09,Eucalyptus melliodora,-33.423,149.752,844,WGS84,NA,NA,NA,NA,NA,NA,92501899,13.30937552
+LBM01H10,Eucalyptus melliodora,-36.388,146.481,181,WGS84,NA,NA,NA,NA,NA,NA,90918203,13.02787566
+LBM02C03,Eucalyptus melliodora,-34.036884,148.5675,318,WGS84,NA,NA,NA,NA,NA,NA,135229301,19.46747054
+LBM02C04,Eucalyptus melliodora,-27.368696,152.03023,625,WGS84,NA,NA,NA,NA,NA,NA,138266773,20.42465345
+LBM02D02,Eucalyptus melliodora,-33.6166,149.64452,782,WGS84,NA,NA,NA,NA,NA,NA,102952841,15.44091273
+LBM02D07,Eucalyptus melliodora,-35.235664,149.16422,613,WGS84,NA,NA,NA,NA,NA,NA,125865435,18.04835437
+LBM02D09,Eucalyptus melliodora,-33.44218,147.51628,213,WGS84,NA,NA,NA,NA,NA,NA,154749737,22.84369309
+LBM02D10,Eucalyptus melliodora,-35.40026,149.1318,669,WGS84,NA,NA,NA,NA,NA,NA,91503993,12.60998963
+LBM02F01,Eucalyptus melliodora,-35.03333,147.33333,NA,WGS84,NA,NA,NA,NA,NA,NA,150357908,22.0879667
+LBM02G05,Eucalyptus melliodora,-33.936944,116.963333,NA,WGS84,NA,NA,NA,NA,NA,NA,112755898,16.65090925
+LBM02G08,Eucalyptus melliodora,-33.121143,149.05785,709,WGS84,NA,NA,NA,NA,NA,NA,133481711,19.79379127
+LBM02H11,Eucalyptus melliodora,-36.54041,146.10739,195,WGS84,NA,NA,NA,NA,NA,NA,146235828,21.60510914
+LBM03B07,Eucalyptus melliodora,-35.26495,147.310133,265,WGS84,NA,NA,NA,NA,NA,NA,102355079,15.48612593
+LBM03C03,Eucalyptus melliodora,-32.389167,150.881667,147,WGS84,NA,NA,NA,NA,NA,NA,108712473,15.32845666
+LBM03C05,Eucalyptus melliodora,-37.285278,143.77778,321,WGS84,NA,NA,NA,NA,NA,NA,100889020,15.10290053
+LBM03C10,Eucalyptus melliodora,-34.911785,148.971179,562,WGS84,NA,NA,NA,NA,NA,NA,128388170,19.16844027
+LBM03D01,Eucalyptus melliodora,-33.224724,149.28056,NA,WGS84,NA,NA,NA,NA,NA,NA,90620545,12.65348839
+LBM03E01,Eucalyptus melliodora,-36.6755,146.26477,236,WGS84,NA,NA,NA,NA,NA,NA,106266368,14.75437204
+LBM03E04,Eucalyptus melliodora,-33.710145,149.52355,978,WGS84,NA,NA,NA,NA,NA,NA,103630721,15.56463212
+LBM03E09,Eucalyptus melliodora,-30.54493,151.79367,1055,WGS84,NA,NA,NA,NA,NA,NA,103398232,15.45542898
+LBM03F11,Eucalyptus melliodora,-36.580471,143.521639,206,WGS84,NA,NA,NA,NA,NA,NA,164066915,24.43724185
+LBM03G08,Eucalyptus melliodora,-37.179444,144.483333,517,WGS84,NA,NA,NA,NA,NA,NA,96035263,14.332938
+LBM04A05,Eucalyptus melliodora,-37.144361,142.839428,244,WGS84,NA,NA,NA,NA,NA,NA,101943098,15.15198789
+LBM04D08,Eucalyptus melliodora,-35.39474,149.677129,NA,WGS84,NA,NA,NA,NA,NA,NA,90073734,13.38656875
+LBM04F02,Eucalyptus melliodora,-36.487921,143.891325,138,WGS84,NA,NA,NA,NA,NA,NA,164441375,24.72734552
+LBM04F03,Eucalyptus melliodora,-35.299683,147.165733,258,WGS84,NA,NA,NA,NA,NA,NA,129552546,19.15134941
+LBM04G01,Eucalyptus melliodora,-36.980278,144.047611,333,WGS84,NA,NA,NA,NA,NA,NA,107070469,15.88361533
+LBM04G05,Eucalyptus melliodora,-35.37515,147.25261,266,WGS84,NA,NA,NA,NA,NA,NA,91587189,13.70979509
+NSW0001,Eucalyptus melliodora,-34.69864234,149.6065069,713.89917,WGS84,2019-07-04T17:30:28Z,N,Helen Bothwell,Pull off W of Range Rd at green Pomeroy Fire Brigade shed,"Only found 1 fruit, but 5-valved",,83845183,18.36704665
+NSW0002,Eucalyptus melliodora,-33.79039172,150.22171,657.422119,WGS84,2019-07-05T15:43:27Z,Y,Helen Bothwell,"From Blackheath in Blue Mnts take Shipley Rd W then Megalong Rd SW; tree at very end of dirt bush track, just inside Blue Mnts Nat'l Park by Green Gulley track? about 30' inside; ALA shows more trees but looks like they're either on a private farm or walking access along Nat'l Park trail","Big, old tree, good seed, big leaves and fruits; just dropping down to mid elevation remote farmland from wet rainforest with tree ferns; very healthy growth on this tree","Heavy mist/rain all day; mostly dense forest of other ssp., few Emel through here, at upper elevation and eastern extent of their range",79048689,17.32037588
+NSW0003,Eucalyptus melliodora,-33.74848883,150.2361709,656.701172,WGS84,2019-07-05T16:27:39Z,N,Helen Bothwell,"Going back N on Megalong Rd, W side of rd.","Big, old Emel next to the tree sampled, but couldn't reach leaves; sampled younger tree right next to it",,65814053,14.36201324
+NSW0004,Eucalyptus melliodora,-33.58679077,150.2058728,784.315186,WGS84,2019-07-05T17:39:19Z,Y,Helen Bothwell,"Going W on A23 Great Western HWY, turn S on Coxs River Rd at Little Hartley","Good seed, lots of new development; most of ALA trees now on private property in this area",,62869180,13.49522403
+NSW0005,Eucalyptus melliodora,-33.1236643,150.0056215,716.30249,WGS84,2019-07-06T12:05:15Z,Y,Helen Bothwell,"Drive N from Lithgow on A23 to B55, at Capertee take Glen Davis Rd NE, at fork continue rt. on Glen Davis Rd","Trees very tall and straight through here, in denser forest, only 3 seeds",,75207634,16.60092102
+NSW0006,Eucalyptus melliodora,-33.11997442,150.034491,699.719971,WGS84,2019-07-06T12:24:08Z,Y,Helen Bothwell,"Continue ~1km, pullout on N side of rd; N side of rd is public here, S side is Gardens of Stone Nat'l Park; all samples are on N side",Lots of seed,"Glen Davis/Wollemi Valley surrounded by high mesas, reminiscent of the US SW, but rolling farmland, still quite lush, open woodland",82991387,18.21188473
+NSW0007,Eucalyptus melliodora,-33.13831503,150.109859,403.395874,WGS84,2019-07-06T12:56:42Z,Y,Helen Bothwell,"Continue on Glen Davis Rd, N side of rd","Good seed, moving out of dense forest into wide valley",,71330383,15.52414727
+NSW0008,Eucalyptus melliodora,-33.10924617,150.1912611,322.405396,WGS84,2019-07-06T13:59:05Z,Y,Helen Bothwell,"Continue on Glen Davis Rd, N side of rd",Lots of seed,,77958410,17.14387216
+NSW0009,Eucalyptus melliodora,-33.07784647,150.2113412,298.612915,WGS84,2019-07-06T14:30:20Z,N,Helen Bothwell,Turn N towards Glen Alice,"Just bloomed, too soon for seed",,73589057,16.22988837
+NSW0010,Eucalyptus melliodora,-33.07240946,150.2132123,306.784058,WGS84,2019-07-06T14:45:00Z,Y,Helen Bothwell,Continue N,"Fruits, 4-5 valved",,71723966,14.85271795
+NSW0011,Eucalyptus melliodora,-33.0363221,150.1634771,330.816895,WGS84,2019-07-06T15:02:15Z,Y,Helen Bothwell,Continue N,"Absolutely dripping w new fruit and dried flowers; not much seed, but will be heavy next year",,51977024,11.35639776
+NSW0012,Eucalyptus melliodora,-32.97420709,150.1042704,469.966675,WGS84,2019-07-06T15:35:25Z,N,Helen Bothwell,W side of road past Bogee,"Leaves only, old, v tall",,58756046,12.44926985
+NSW0013,Eucalyptus melliodora,-32.95507682,150.0824443,503.372192,WGS84,2019-07-06T15:44:33Z,Y,Helen Bothwell,N side of Rd,"Great seed tree! Low branch, easy access",,84500725,18.63607698
+NSW0014,Eucalyptus melliodora,-32.90411761,150.0378866,686.02124,WGS84,2019-07-06T16:12:11Z,Y,Helen Bothwell,Continueing,"Massive old tree, seed, black cluster of worms on one branch",,84112424,18.44655511
+NSW0015,Eucalyptus melliodora,-32.9797285,149.7962746,893.904785,WGS84,2019-07-06T17:19:15Z,N,Helen Bothwell,"S on B55, at Ilford turn W on Goulburn-Ilford Rd, pull onto dirt frontage on N side of rd",No seed,,68146168,14.73142216
+NSW0016,Eucalyptus melliodora,-32.98264531,149.7389758,861.700928,WGS84,2019-07-06T17:36:12Z,Y,Helen Bothwell,At end of 'Rolling Hills' drive way,Just a couple fruits,"Farms in this area starting to open up a bit more, but still surrounded by dense forest on the hilltops and most farms smaller w many trees on open woodland pasture. NSW0009-0017 rolling farmland, big hills, but W of the deep mesas of Gardens of Stone, farms look healthy in this region, not grazed to the bone",76756634,16.86627552
+NSW0017,Eucalyptus melliodora,-33.05459281,149.6923205,618.008545,WGS84,2019-07-06T17:57:02Z,Y,Helen Bothwell,Pull off into medium sized dirt lot on left/E side of rd,,,71867103,15.84864164
+NSW0018,Eucalyptus melliodora,-33.29176018,149.5713342,717.263916,WGS84,2019-07-07T11:13:35Z,N,Helen Bothwell,"N out of Bathurst on Duramana Rd, tree on W side of rd","Leaves only, big old tree",,74266145,16.30968954
+NSW0019,Eucalyptus melliodora,-33.24703988,149.5812118,618.969727,WGS84,2019-07-07T11:29:49Z,Y,Helen Bothwell,"Continuing N, W side of Rd","Some seed, just finished blooming","Brachychiton populneus (Kurrajong bottle trees) common yesterday and today, also lots of blakeleyi; trees good 5-valved fruits unless otherwise noted",63233056,13.85793773
+NSW0020,Eucalyptus melliodora,-33.16065146,149.5911186,640.8396,WGS84,07-JUL-19 11:58:13AM,Y,Helen Bothwell,,Good seed tree,,,
+NSW0023,Eucalyptus melliodora,-33.00137786,149.5706593,871.07373,WGS84,07-JUL-19 12:54:20PM,Y,Helen Bothwell,,"Only 2 seeds, TONS of umbel bundles but for next year",,,
+NSW0025,Eucalyptus melliodora,-33.02776988,149.4436883,938.846191,WGS84,07-JUL-19 2:09:01PM,Y,Helen Bothwell,,"Older tree at edge of dense forest, lots of peppermint type bark tree and snow gums, v few Emel here; lots of polyanthemos, higher elevation; seed, 5 valved",,,
+NSW0030,Eucalyptus melliodora,-33.43413628,149.5472441,756.4375,WGS84,07-JUL-19 5:30:07PM,Y,Helen Bothwell,,Great seed tree!,,,
+NSW0034,Eucalyptus melliodora,-34.98076505,148.8550645,562.973389,WGS84,19-AUG-19 1:07:51PM,Y,Helen Bothwell,,"Lots of fruit, mostly 5-valved some 4, umbels of 7",,,
+NSW0042,Eucalyptus melliodora,-35.10198011,148.6716486,381.766357,WGS84,19-AUG-19 5:02:48PM,Y,Helen Bothwell,,"Big old tree, classic wavy bark, lots of 5-valved fruit",,,
+NSW0043,Eucalyptus melliodora,-35.12969177,148.6544524,451.221069,WGS84,19-AUG-19 5:25:45PM,Y,Helen Bothwell,,"Lots of seed, many 4-valved but also 5",,,
+NSW0047,Eucalyptus melliodora,-35.20175368,148.0307351,261.602539,WGS84,20-AUG-19 11:28:29AM,Y,Helen Bothwell,,"Huge old tree, some seed, 5-valved and some 4",,,
+NSW0053,Eucalyptus sideroxylon,-35.28080978,147.7194433,261.842773,WGS84,20-AUG-19 2:36:12PM,Y,Helen Bothwell,,"Close to 0052, but has seed",,,
+NSW0054,Eucalyptus sideroxylon,-35.26500704,147.6920104,310.148682,WGS84,20-AUG-19 2:51:21PM,Y,Helen Bothwell,,Lots of seed,,,
+NSW0056,Eucalyptus sideroxylon,-35.27284018,147.7017631,273.138306,WGS84,20-AUG-19 3:19:41PM,Y,Helen Bothwell,,"Old Esid, lots of seed",,,
+NSW0057,Eucalyptus sideroxylon,-35.2807625,147.7429167,258.237915,WGS84,20-AUG-19 3:46:31PM,Y,Helen Bothwell,,"Big old Esid, some seed",,,
+NSW0058,Eucalyptus melliodora,-35.31313241,147.774603,257.997559,WGS84,20-AUG-19 3:56:58PM,Y,Helen Bothwell,,"Good Emel, BIG",,,
+NSW0059,Eucalyptus sideroxylon,-35.32370609,147.7886907,290.441895,WGS84,20-AUG-19 4:17:40PM,N,Helen Bothwell,,"Leaves only, Esid",,,
+NSW0060,Eucalyptus melliodora,-35.3735661,147.8100868,276.983521,WGS84,20-AUG-19 4:57:30PM,Y,Helen Bothwell,,"Good Emel, 5-valved fruits and many",,,
+NSW0061,Eucalyptus sideroxylon,-35.38459039,147.7846044,278.906128,WGS84,20-AUG-19 5:07:27PM,F,Helen Bothwell,,"Esid, few fruits",,,
+NSW0067,Eucalyptus sideroxylon,-35.14584437,147.5388173,217.622437,WGS84,21-AUG-19 11:21:38AM,Y,Helen Bothwell,,"Esid, seed",,,
+NSW0069,Eucalyptus sideroxylon,-35.16186898,147.5825697,219.7854,WGS84,21-AUG-19 12:06:46PM,Y,Helen Bothwell,,"Esid, lots of seed, flowering white; could be planted, but many Esid in wild nearby; loaded w seed which surely reflects the local pollen pool",,,
+NSW0074,Eucalyptus melliodora,-34.93740245,148.9884217,604.550293,WGS84,21-AUG-19 5:27:32PM,Y,Helen Bothwell,,"TONS of fruits, good 5-valved, plump fruits, typical Emel. Many younger and resprout leaves on fronds like 0072, umbels of 7","Emel are different in drier Canberra area compared to wetter Gundagai/Wagga Wagga region, also lower elevation there; many ALA Emel seem to be misidentified in that region, w much smaller/barrely fruits, likely grey box further west",,
+NSW0078,Eucalyptus melliodora,-32.11770357,151.0914407,260.88147,WGS84,30-AUG-19 5:35:41PM,Y,Helen Bothwell,,"Has lots of fruit, good mature plump Emel, flowering",,,
+NSW0079,Eucalyptus melliodora,-32.13996582,151.1047273,275.301147,WGS84,30-AUG-19 6:12:28PM,Y,Helen Bothwell,,,Wet and rainy all day today,,
+NSW0082,Eucalyptus melliodora,-32.04688839,150.6718526,262.563721,WGS84,31-AUG-19 11:49:29AM,Y,Helen Bothwell,,"Big old Emel, fruits quite large, but trunk looks good, young leaves ovate, mature leaves smaller/thin",,,
+NSW0088,Eucalyptus melliodora,-31.78305692,150.9139098,436.320801,WGS84,31-AUG-19 3:14:53PM,Y,Helen Bothwell,,"Big old Emel, lots of 5-valved fruits, just finishing flowering, heavy w umbels",,,
+NSW0091,Eucalyptus melliodora,-31.73216192,150.6693047,427.90918,WGS84,31-AUG-19 4:20:32PM,Y,Helen Bothwell,,"TONS of fruit, mature/reproductive leaves v thin and longer, 5-valved fruits, just finishing flowering, heavy w umbels, BIG old Emel",,,
+NSW0093,Eucalyptus melliodora,-31.76386965,150.6680448,464.679443,WGS84,31-AUG-19 4:49:09PM,Y,Helen Bothwell,,"Redder/yellower bark, 5-valved fruits bigger and plumper, good Emel, leaves more blue-grey and bigger, not as frondy, lots of fruit, flowering",,,
+NSW0096,Eucalyptus melliodora,-31.15869398,151.0484082,422.62207,WGS84,01-SEP-19 9:47:13AM,Y,Helen Bothwell,,"Right along roadside by house, potentially planted, heavy w flowers/umbels/bees (melliodora!), only 2 fruits but big and plump 5-valved, good Emel bark, ovate juv leaves, medium aged",Finally not raining!,,
+NSW0097,Eucalyptus melliodora,-31.23102997,151.1084895,451.221069,WGS84,01-SEP-19 10:06:47AM,Y,Helen Bothwell,,"Possibly planted along roadside row along dirt rd, but OLD, big plump 5-valved fruits, umbels of 7, nurse tree to Brachychiton",,,
+NSW0098,Eucalyptus melliodora,-31.41448109,151.1365435,560.810547,WGS84,01-SEP-19 11:19:57AM,Y,Helen Bothwell,,"HUGE old Emel, good ovate juv leaves, 5-valved fruits","Again, most ALA Emel through here do not exist (either mortality or mis-ID)",,
+NSW0101,Eucalyptus melliodora,-31.44565078,151.0999205,643.723633,WGS84,01-SEP-19 12:00:06PM,Y,Helen Bothwell,,"TONS of plump 5-valved fruit, loaded w flowers and bees, classic Emel bark, older",,,
+NSW0105,Eucalyptus melliodora,-31.4757414,150.9396289,616.085938,WGS84,01-SEP-19 12:59:53PM,Y,Helen Bothwell,,"All by itself, open pastures all around, LOTS of 4/5-valved fruits",,,
+NSW0106,Eucalyptus sideroxylon,-31.3407138,150.8736165,490.634766,WGS84,01-SEP-19 2:01:36PM,Y,Helen Bothwell,,LOTS of big 5-valved fruits ,,,
+NSW0108,Eucalyptus melliodora,-31.37221894,150.8601643,554.321777,WGS84,01-SEP-19 2:19:52PM,Y,Helen Bothwell,,"HUGE old Emel, plenty of 5 but also a few 6-valved fruits, ",,,
+NSW0113,Eucalyptus melliodora,-31.25033283,150.8299387,460.834229,WGS84,01-SEP-19 3:43:40PM,Y,Helen Bothwell,,"Mid-aged tree, lots of 5/6-valved fruits",,,
+NSW0114,Eucalyptus melliodora,-31.24584189,150.6761998,389.456787,WGS84,01-SEP-19 4:39:43PM,Y,Helen Bothwell,"Bulunbulun Rd, then Piallaway Rd N of Currabubula","Big old Emel, lots of 5-valved fruits, just done flowering",,,
+NSW0116,Eucalyptus melliodora,-31.14944824,150.5618832,311.350342,WGS84,01-SEP-19 5:18:03PM,Y,Helen Bothwell,,"Monster old Emel, heavy w flowers, lots of fruit and bees, big plump 5-valved fruits",,,
+NSW0118,Eucalyptus melliodora,-31.16732567,150.8561391,400.511963,WGS84,02-SEP-19 10:11:04AM,Y,Helen Bothwell,S of Tamworth take Warral-Duri Rd.,"Good Emel, plump 5-valved fruit, mid-aged",,,
+NSW0120,Eucalyptus melliodora,-31.19051999,150.8392117,438.003052,WGS84,02-SEP-19 10:31:16AM,Y,Helen Bothwell,,"Good Emel, lots of fruit, just done flowering",,,
+NSW0128,Eucalyptus melliodora,-31.45970875,150.5936909,348.120605,WGS84,02-SEP-19 1:43:05PM,Y,Helen Bothwell,,"BIG old tree, fruit smallish 5-valved, flowering branch leaves v thin and frondy (like willow), bark looks good, axial umbels",,,
+NSW0129,Eucalyptus melliodora,-31.42181005,150.4888877,325.289307,WGS84,02-SEP-19 2:07:01PM,Y,Helen Bothwell,,"Plenty of seed and good Emel plump 5-valved fruits, juv leaves ovate, mature leaves not frondy",,,
+NSW0131,Eucalyptus melliodora,-31.4067932,150.2283943,321.684448,WGS84,02-SEP-19 3:38:12PM,Y,Helen Bothwell,,Good Emel fruits,,,
+NSW0137,Eucalyptus melliodora,-31.40040787,149.7085042,421.901123,WGS84,02-SEP-19 6:00:56PM,Y,Helen Bothwell,,"Back to open woodland, Emel good plump fruits 4/5-valved, bottom bark good but top very white/smooth, leaves frondy, hyb w red box? All around here trees look a bit more red boxy. This was one of the few trees that looked more Emel; in stand of Supple HL210-219","Open farmland after this, lots of trees in this area w rougher, darker/redder bottom bark and white smooth upper",,
+NSW0142,Eucalyptus melliodora,-31.2737356,149.3367654,510.822388,WGS84,03-SEP-19 12:45:30PM,Y,Helen Bothwell,,"Good Emel, wavy bark, plenty of fruit larger plump 5-valved, leaves gray-green and larger typical ovate, flowering","Most of the other woolier barked, thinner greener smaller leaved, smaller-fruited trees through here NOT flowering",,
+NSW0148,Eucalyptus melliodora,-31.58507117,149.3990021,413.009033,WGS84,03-SEP-19 3:33:23PM,Y,Helen Bothwell,,"Some seed, nice plump and 5-valved, typical Emel",,,
+NSW0153,Eucalyptus melliodora,-32.07823453,150.241811,375.758179,WGS84,03-SEP-19 6:25:44PM,Y,Helen Bothwell,,"Good Emel, lots of fruit, nice plump 4/5-valved fruits, thin frondy leaves, but this seems common on flowering/fruiting racemes",,,
+NSW0159,Eucalyptus melliodora,-31.96406588,150.4233439,362.780396,WGS84,04-SEP-19 11:09:03AM,Y,Helen Bothwell,,Good Emel w fruit,,,
+NSW0165,Eucalyptus melliodora,-32.13964513,150.3608248,270.734985,WGS84,04-SEP-19 12:36:46PM,Y,Helen Bothwell,,"Lots of fruit, possibly/likely planted","On drive home, took Bylong Valley Way from Sandy Hollow to Kandos. ALA lists numerous E. sideroxylon through here, but all the trees I checked were the thinner-leaved, smaller-fruited, grayer ironbark. I saw one tree that may have been sider, but it was innaccessible. Many of these through here appear to be missidentified. It is more mountainous terrain than I typically have found sider in. These higher elevations almost always turn out to be the small-fruited ironbark.",,
+NSW0166,Eucalyptus melliodora,-33.23415337,148.850199,541.10376,WGS84,09-SEP-19 1:33:35PM,Y,Helen Bothwell,,"Big old Emel, lots of fruit",,,
+NSW0170,Eucalyptus sideroxylon,-32.1584081,148.6588052,334.902466,WGS84,09-SEP-19 5:23:19PM,Y,Helen Bothwell,,Esid with fruit,,,
+NSW0172,Eucalyptus sideroxylon,-32.05224576,148.5716864,298.132324,WGS84,11-SEP-19 10:38:46AM,F,Helen Bothwell,,"Esid, younger, only 5 fruits",,,
+NSW0174,Eucalyptus melliodora,-31.75691092,148.7542546,306.784058,WGS84,11-SEP-19 1:31:21PM,Y,Helen Bothwell,,"Probably Emel, but fruits rather small 5-valved, axial umbels, plenty of fruit",,,
+NSW0175,Eucalyptus melliodora,-31.82180948,148.8683249,319.521484,WGS84,11-SEP-19 2:02:58PM,Y,Helen Bothwell,,"Emel? But again v small fruits, 5-valved, v thin and narrow reproductive leaves, axial umbels",,,
+NSW0180,Eucalyptus melliodora,-31.8304601,149.1688524,359.175537,WGS84,11-SEP-19 3:51:25PM,Y,Helen Bothwell,,"Good sized fruits but most 4-valved, good Emel bark, axial umbels and juv leaves",,,
+NSW0181,Eucalyptus melliodora,-31.96752492,149.3376142,403.155518,WGS84,11-SEP-19 4:19:19PM,Y,Helen Bothwell,,"Perfect Emel, loads of plump 4/5-valved fruit, good juv leaves",,,
+NSW0185,Eucalyptus sideroxylon,-32.11150758,149.2312073,394.984375,WGS84,11-SEP-19 5:16:54PM,Y,Helen Bothwell,,"Good Esid, plenty of fruit",,,
+NSW0186,Eucalyptus sideroxylon,-32.15090018,149.232789,391.619751,WGS84,11-SEP-19 5:35:02PM,N,Helen Bothwell,,"Esid? Leaves and black-red bark good, drooping inflorescence, white tinged pink flowers, no fruit",,,
+NSW0188,Eucalyptus melliodora,-32.18741921,149.2692459,399.791016,WGS84,11-SEP-19 5:57:22PM,Y,Helen Bothwell,,"TONS of 4/5 fruit, big old Emel",,,
+NSW0189,Eucalyptus sideroxylon ,-32.19448566,149.2754635,404.837769,WGS84,11-SEP-19 6:12:13PM,Y,Helen Bothwell,,"Good Esid, fruit, just finishing flowering white",,,
+NSW0190,Eucalyptus sideroxylon ,-32.32507914,148.7661722,402.194214,WGS84,12-SEP-19 9:34:36AM,Y,Helen Bothwell,,Esid with lots of fruit and flowers,,,
+NSW0191,Eucalyptus sideroxylon,-32.30811099,148.775933,412.288086,WGS84,12-SEP-19 9:51:43AM,N,Helen Bothwell,,"Esid, big tall older tree, no fruit, but flowers and umbels characteristicaly drooping, immature cups and leaves look good, bark also has the telling red-black tinge",,,
+NSW0197,Eucalyptus sideroxylon,-32.28249421,148.5633969,332.258911,WGS84,12-SEP-19 2:02:21PM,N,Helen Bothwell,,"Esid w green fruit, look like just finished flowering, pinkish-orange dried flowers on ground below tree",,,
+NSW0198,Eucalyptus sideroxylon ,-32.46974886,148.3316664,380.084106,WGS84,12-SEP-19 2:51:12PM,Y,Helen Bothwell,,Esid w lots of white flowers and lots of good fruit,,,
+NSW0199,Eucalyptus sideroxylon ,-32.48218727,148.3199077,348.36084,WGS84,12-SEP-19 3:01:15PM,Y,Helen Bothwell,,"Big tall old Esid, lots of fruit and white flowers, dried flowers here are also pink-orange tinged but white when alive",,,
+NSW0200,Eucalyptus sideroxylon,-32.51479162,148.2882391,323.607056,WGS84,12-SEP-19 3:15:54PM,F,Helen Bothwell,,"Big tall old Esid, few fruits",,,
+NSW0201,Eucalyptus sideroxylon ,-32.3788566,148.2295863,282.510986,WGS84,12-SEP-19 3:42:28PM,Y,Helen Bothwell,,"Esid, flowering white, cups still large but a bit smaller than farther E, getting very arid now, lots of fruit",,,
+NSW0202,Eucalyptus sideroxylon ,-32.36638131,148.2309991,271.696289,WGS84,12-SEP-19 3:52:23PM,Y,Helen Bothwell,,Esid w plenty of fruit,,,
+NSW0205,Eucalyptus melliodora,-32.48684258,147.9255537,221.948486,WGS84,12-SEP-19 6:25:52PM,Y,Helen Bothwell,,"Very tall old Emel, perfect 5-valved fruits, good juv leaves and bark. FINALLY! Most ALA records in this area are either dead or misidentified",,,
+NSW0206,Eucalyptus melliodora,-32.46047236,147.8798483,220.50647,WGS84,12-SEP-19 6:48:40PM,Y,Helen Bothwell,,"Good Emel, perfect leaves, lots of good 5-valved fruit","More ALA records along this road - likely tapped into a good little stand, but got too dark to sample more",,
+NSW0207,Eucalyptus melliodora,-32.87453963,148.1952447,300.776001,WGS84,13-SEP-19 10:08:05AM,Y,Helen Bothwell,,"Big tall Emel, TONS of good 5-valved fruit, 10-15 Emel lining road here",ALAM5824 - absent (dead and/or cleared),,
+NSW0213,Eucalyptus melliodora,-33.00604667,148.1591849,359.65625,WGS84,13-SEP-19 11:39:17AM,Y,Helen Bothwell,,"Emel, lots of fruit",,,
+NSW0220,Eucalyptus sideroxylon ,-33.01505,147.9168203,319.761841,WGS84,13-SEP-19 2:29:14PM,Y,Helen Bothwell,,"Esid, fruit",,,
+NSW0221,Eucalyptus sideroxylon ,-32.97080546,147.9439458,326.010254,WGS84,13-SEP-19 2:49:50PM,Y,Helen Bothwell,,Esid w fruit,,,
+NSW0222,Eucalyptus sideroxylon ,-32.94891402,147.8816904,299.574219,WGS84,13-SEP-19 3:11:23PM,Y,Helen Bothwell,,"Esid, lots of fruit",,,
+NSW0223,Eucalyptus melliodora,-32.88425309,147.6891232,262.08313,WGS84,13-SEP-19 3:42:12PM,Y,Helen Bothwell,,"Emel? Juv leaves and axial umbels perfect, but fruits a bit small 5-valved, lots of fruit",,,
+NSW0224,Eucalyptus melliodora,-32.67660854,147.5864269,255.113647,WGS84,13-SEP-19 4:09:37PM,Y,Helen Bothwell,,"TONS of good 5-valved fruit, Emel",,,
+NSW0225,Eucalyptus sideroxylon ,-32.60118817,147.551004,246.942505,WGS84,13-SEP-19 4:41:35PM,Y,Helen Bothwell,,"Esid, lots of fruit, but seem a bit smaller and more barrel-shaped, some typical big tough leaves but also some quite small narrow ones, lots of variation in both fruits and leaves, umbels quite small too, a bit odd",,,
+NSW0226,Eucalyptus sideroxylon ,-32.56866672,147.5501287,268.572021,WGS84,13-SEP-19 4:58:11PM,Y,Helen Bothwell,,"Esid, lots of fruit",,,
+NSW0228,Eucalyptus sideroxylon ,-32.48178863,147.5559789,272.657593,WGS84,13-SEP-19 5:26:09PM,Y,Helen Bothwell,,"Esid, tons of fruit, just finishing flowering",,,
+NSW0229,Eucalyptus sideroxylon ,-32.44752567,147.5309473,275.301147,WGS84,13-SEP-19 5:35:27PM,Y,Helen Bothwell,,"Esid, tons of fruit, just finishing flowering",,,
+NSW0230,Eucalyptus sideroxylon ,-32.32536161,147.4490555,244.779541,WGS84,13-SEP-19 5:55:39PM,Y,Helen Bothwell,,"Esid, tons of fruit, just finishing flowering",,,
+NSW0231,Eucalyptus sideroxylon ,-32.39632113,147.4536348,258.718506,WGS84,13-SEP-19 6:13:04PM,Y,Helen Bothwell,,"Esid, lots of fruit",,,
+NSW0232,Eucalyptus sideroxylon ,-32.40859215,147.4304442,279.386719,WGS84,13-SEP-19 6:21:25PM,Y,Helen Bothwell,,"Esid, lots of fruit",,,
+NSW0234,Eucalyptus sideroxylon ,-32.71063068,146.9679654,274.099487,WGS84,14-SEP-19 9:28:42AM,Y,Helen Bothwell,,"Younger-mid aged Esid, flowering, lots of fruit",,,
+NSW0235,Eucalyptus sideroxylon ,-32.61420275,147.0156612,308.226074,WGS84,14-SEP-19 9:53:08AM,Y,Helen Bothwell,,,NSW0236-NSW0247 envelopes nowhere to be found ??,,
+NSW0249,Eucalyptus sideroxylon ,-32.53290567,147.4559476,298.372559,WGS84,14-SEP-19 11:55:01AM,Y,Helen Bothwell,,"Big old Esid, many fruits, flowering",,,
+NSW0251,Eucalyptus sideroxylon ,-32.55682116,147.4776511,289.480469,WGS84,14-SEP-19 12:11:39PM,Y,Helen Bothwell,,"Still good stand continuing, lots of fruit",,,
+NSW0252,Eucalyptus sideroxylon ,-32.57087342,147.4901369,288.519287,WGS84,14-SEP-19 12:23:03PM,Y,Helen Bothwell,,"Esid, fruit",,,
+NSW0254,Eucalyptus sideroxylon ,-32.59760558,147.5158107,267.370361,WGS84,14-SEP-19 12:37:23PM,Y,Helen Bothwell,,"Esid, fruit",,,
+NSW0255,Eucalyptus sideroxylon,-32.66352514,147.4763455,276.502808,WGS84,14-SEP-19 1:12:48PM,F,Helen Bothwell,,Just a few fruit,,,
+NSW0256,Eucalyptus melliodora,-32.68483621,147.4719048,264.726685,WGS84,14-SEP-19 1:20:37PM,Y,Helen Bothwell,,Emel! Lots of good fruit,,,
+NSW0257,Eucalyptus sideroxylon ,-32.81261858,147.4230573,319.521484,WGS84,14-SEP-19 1:47:08PM,Y,Helen Bothwell,,"Esid, fruit",,,
+NSW0258,Eucalyptus sideroxylon ,-32.82673186,147.416004,323.607056,WGS84,14-SEP-19 1:56:37PM,Y,Helen Bothwell,,Some fruit,,,
+NSW0259,Eucalyptus sideroxylon ,-32.84227928,147.4121246,312.071289,WGS84,14-SEP-19 2:12:36PM,Y,Helen Bothwell,,"Axial fruits rather small, but tons of Esid in the area",,,
+NSW0260,Eucalyptus sideroxylon ,-32.85297216,147.409622,317.839233,WGS84,14-SEP-19 2:19:10PM,Y,Helen Bothwell,,Lots of bigger fruits,,,
+NSW0261,Eucalyptus sideroxylon ,-32.8671069,147.4070275,316.156982,WGS84,14-SEP-19 2:30:58PM,Y,Helen Bothwell,,Lots of bigger fruits,,,
+NSW0263,Eucalyptus sideroxylon,-32.95312341,147.4140858,320.242432,WGS84,14-SEP-19 2:54:52PM,F,Helen Bothwell,,Few fruits,,,
+NSW0264,Eucalyptus sideroxylon ,-32.9657588,147.3860872,290.922485,WGS84,14-SEP-19 3:00:20PM,Y,Helen Bothwell,,Esid fruit,,,
+NSW0268,Eucalyptus melliodora,-33.39228242,147.558404,218.103149,WGS84,14-SEP-19 5:50:00PM,Y,Helen Bothwell,,"ALAM4159 - good Emel, lots of good 5-valved fruits not barrel-shaped, in axial position only, leaves gray-green good juv",,,
+NSW0279,Eucalyptus melliodora,-33.47450646,148.7558038,409.884644,WGS84,15-SEP-19 1:36:57PM,Y,Helen Bothwell,,"Enormous old Emel, good fruit, axial umbels",,,
+NSW0287,Eucalyptus melliodora,-33.38362559,148.105996,245.981201,WGS84,15-SEP-19 5:18:07PM,Y,Helen Bothwell,,"Good plump Emel fruits, monster",,,
+NSW0288,Eucalyptus melliodora,-33.40575364,147.9803256,239.973022,WGS84,15-SEP-19 5:47:26PM,Y,Helen Bothwell,,"Big Emel, some fruit, just done flowering",,,
+NSW0293,Eucalyptus melliodora,-33.8361601,148.6472566,302.698608,WGS84,16-SEP-19 9:16:27AM,Y,Helen Bothwell,,"Big old Emel, possibly planted? Many good 5-valved fruits",,,
+NSW0294,Eucalyptus sideroxylon,-33.91078846,148.4386255,465.640747,WGS84,16-SEP-19 9:37:21AM,N,Helen Bothwell,,"Younger Esid, leaves only",,,
+NSW0295,Eucalyptus sideroxylon ,-33.91635329,148.4289102,492.797852,WGS84,16-SEP-19 9:43:33AM,Y,Helen Bothwell,,"Esid, lots of fruit",,,
+NSW0296,Eucalyptus sideroxylon ,-33.9230713,148.4112073,506.49646,WGS84,16-SEP-19 9:54:36AM,Y,Helen Bothwell,,"Older Esid, fruit",,,
+NSW0297,Eucalyptus melliodora,-33.9340008,148.3936114,450.980713,WGS84,16-SEP-19 10:06:38AM,Y,Helen Bothwell,,"Emel, fruit",,,
+NSW0303,Eucalyptus sideroxylon ,-34.02354467,148.6794614,371.912964,WGS84,16-SEP-19 12:19:31PM,Y,Helen Bothwell,,"Esid, younger, a handful of good fruits",,,
+NSW0304,Eucalyptus sideroxylon ,-34.0200733,148.6736443,370.95166,WGS84,16-SEP-19 12:29:15PM,Y,Helen Bothwell,,"Esid, old tree, sampled younger growth on low limb, fruits on smaller side",,,
+NSW0305,Eucalyptus sideroxylon ,-34.01779451,148.6660446,378.64209,WGS84,16-SEP-19 12:37:30PM,Y,Helen Bothwell,,"Big older Esid, mature foliage, TONS of fruit",,,
+NSW0306,Eucalyptus sideroxylon ,-34.011464,148.6543079,377.921021,WGS84,16-SEP-19 12:45:01PM,Y,Helen Bothwell,,"Some fruit, good fairly continuous stand of Esid through here","E. albens is dominant through here, whereas E. microcarpa is dominant W of Forbes",,
+NSW0311,Eucalyptus melliodora,-34.23932545,148.4123409,398.348999,WGS84,16-SEP-19 2:40:39PM,Y,Helen Bothwell,,"Perfect Emel, although fruit a bit on the small side",,,
+NSW0319,Eucalyptus melliodora,-34.34623553,148.6344898,566.818848,WGS84,16-SEP-19 4:56:56PM,Y,Helen Bothwell,,"Good ol Emel, lots of plump fruit, axial, juv leaves ovate gray-green, perfect",,,
+NSW0322,Eucalyptus melliodora,-34.44177163,148.7590894,493.278442,WGS84,16-SEP-19 5:34:46PM,Y,Helen Bothwell,,"Lots of nice plump fruit, lower leaves margins area really eaten up ",,,
+NSW0325,Eucalyptus melliodora,-35.10194927,149.329333,686.742188,WGS84,04-OCT-19 12:38:42PM,Y,Helen Bothwell & Margaret Mackinnon,,"Lots of good plump 5-valved fruits;  good leaves, bark and axial inflor. ",,,
+NSW0334,Eucalyptus melliodora,-34.7289104,149.187526,553.841064,WGS84,04-OCT-19 4:04:47PM,Y,Helen Bothwell & Margaret Mackinnon,,"Good old Emel, good fruits and axial inflor.",,,
+NSW0336,Eucalyptus melliodora,-29.66700926,151.0560641,613.922852,WGS84,10-OCT-19 10:35:48AM,Y,Helen Bothwell,,"Good Emel, TONS of plump 5-valved fruits (ALAM10866)",,,
+NSW0342,Eucalyptus melliodora,-29.47903049,150.9349163,607.434082,WGS84,10-OCT-19 12:04:06PM,Y,Helen Bothwell,,"Lots of fruits, plump, many 4-valved some 5, good gray-green leaves, 7 axial inflor",,,
+NSW0344,Eucalyptus melliodora,-29.36829784,150.9126307,525.482422,WGS84,10-OCT-19 12:44:02PM,Y,Helen Bothwell,,"LOADED w flowers, bees, tons of fruits, but very green/immature",,,
+NSW0346,Eucalyptus melliodora,-29.24407921,150.8960443,420.459106,WGS84,10-OCT-19 1:35:16PM,Y,Helen Bothwell,,"Good Emel, TONS of plump 5-valved fruits, loaded w flowers, bees, 7 axial inflor",,,
+NSW0347,Eucalyptus melliodora,-29.53112084,150.5629587,336.344482,WGS84,10-OCT-19 2:43:47PM,Y,Helen Bothwell,,"Good Emel, TONS of nice plump 5-valved fruits, 7 axial inflor, leaves pretty sparse - v dry out here",,,
+NSW0349,Eucalyptus melliodora,-29.56176172,150.5434104,325.289307,WGS84,10-OCT-19 3:08:58PM,Y,Helen Bothwell,,"TONS of good Emel fruit, 1 flower, just done flowering",,,
+NSW0356,Eucalyptus sideroxylon,-29.85969194,150.8983499,698.278076,WGS84,10-OCT-19 5:39:50PM,Y,Helen Bothwell,,Lots of fruit,,,
+NSW0357,Eucalyptus sideroxylon,-29.84141068,150.8883544,694.913574,WGS84,10-OCT-19 5:51:01PM,Y,Helen Bothwell,,"Lots of fruit, along fence, possibly planted, but many Esid in area",,,
+NSW0358,Eucalyptus sideroxylon,-29.81534866,150.9138883,683.137207,WGS84,10-OCT-19 6:02:18PM,Y,Helen Bothwell,,"White flowers, plenty of fruit",,,
+NSW0359,Eucalyptus sideroxylon,-29.80145079,150.9211789,655.259277,WGS84,10-OCT-19 6:09:45PM,Y,Helen Bothwell,,Lots of fruit,,,
+NSW0360,Eucalyptus melliodora,-29.78798241,150.9468755,653.576904,WGS84,10-OCT-19 6:20:34PM,Y,Helen Bothwell,,"Lots of fruit, big tree, architecture seems rather straight for Emel",,,
+NSW0361,Eucalyptus sideroxylon,-29.98876344,151.1105486,830.458252,WGS84,11-OCT-19 11:15:02AM,Y,Helen Bothwell,,Some fruits,,,
+NSW0364,Eucalyptus sideroxylon,-30.14525173,151.0761101,693.47168,WGS84,11-OCT-19 12:04:23PM,Y,Helen Bothwell,,"TONS of fruits, just finishing flowering",,,
+NSW0365,Eucalyptus melliodora,-30.21748169,150.9452369,860.739746,WGS84,11-OCT-19 12:39:33PM,Y,Helen Bothwell,,"Respout, big old tree, lots of fruit; in burn area",,,
+NSW0367,Eucalyptus sideroxylon,-30.21489873,150.7828832,703.084717,WGS84,11-OCT-19 1:20:36PM,F,Helen Bothwell,,"Just a few fruits, flowering, lots of new fruits but too immature/soft/green; in burn area",,,
+NSW0369,Eucalyptus sideroxylon,-30.26379188,150.7287346,679.532471,WGS84,11-OCT-19 1:50:01PM,Y,Helen Bothwell,,"Big old Esid, many fruits",,,
+NSW0370,Eucalyptus sideroxylon,-30.26340497,150.7291427,679.532471,WGS84,11-OCT-19 1:57:13PM,Y,Helen Bothwell,,"Big old Esid, many fruits",,,
+NSW0374,Eucalyptus melliodora,-30.29915655,150.7871889,544.708618,WGS84,11-OCT-19 4:12:41PM,Y,Helen Bothwell,,"Plenty of fruit, 4/5-valved",,,
+NSW0375,Eucalyptus sideroxylon,-30.29369935,150.7947231,566.0979,WGS84,11-OCT-19 4:26:55PM,F,Helen Bothwell,,Few fruit,,,
+NSW0376,Eucalyptus sideroxylon,-30.21560951,150.7006708,741.537109,WGS84,11-OCT-19 4:58:57PM,F,Helen Bothwell,,Few fruit,,,
+NSW0377,Eucalyptus sideroxylon,-30.1814981,150.6607832,737.211182,WGS84,11-OCT-19 5:14:56PM,Y,Helen Bothwell,,Lots of fruit,,,
+NSW0378,Eucalyptus melliodora,-30.18187612,150.6538212,698.999023,WGS84,11-OCT-19 5:24:55PM,Y,Helen Bothwell,,Some fruit,,,
+NSW0379,Eucalyptus melliodora,-29.80271428,150.6009026,303.179199,WGS84,11-OCT-19 6:24:45PM,Y,Helen Bothwell,,Lots of fruits,,,
+NSW0380,Eucalyptus melliodora,-29.77251621,151.2015618,678.571045,WGS84,12-OCT-19 8:59:38AM,Y,Helen Bothwell,,Many fruits,,,
+NSW0385,Eucalyptus melliodora,-29.65709128,151.3777101,845.358643,WGS84,12-OCT-19 10:27:37AM,Y,Helen Bothwell,,"Lots of fruits, in forest, smaller fruits, taller, straighter than field trees",,,
+NSW0392,Eucalyptus melliodora,-29.46364668,151.4856995,753.793701,WGS84,12-OCT-19 12:30:19PM,Y,Helen Bothwell,,Lots of fruit,,,
+NSW0394,Eucalyptus melliodora,-29.51343359,151.8577896,1028.488281,WGS84,12-OCT-19 2:50:35PM,Y,Helen Bothwell,,Some seed,,,
+NSW0399,Eucalyptus melliodora,-30.17427416,151.0763469,654.778564,WGS84,13-OCT-19 11:11:20AM,Y,Helen Bothwell,,Lots of fruits,,,
+NSW0401,Eucalyptus sideroxylon,-30.26361535,151.1715356,699.239502,WGS84,13-OCT-19 12:09:46PM,F,Helen Bothwell,,"Only 2 fruits, lots of Esid here but all v tall and no reachable fruits",,,
+NSW0402,Eucalyptus sideroxylon,-30.26444005,151.1739639,702.123291,WGS84,13-OCT-19 12:16:35PM,F,Helen Bothwell,,Few fruits,,,
+NSW0404,Eucalyptus melliodora,-30.33818219,151.2148598,720.147705,WGS84,13-OCT-19 12:47:39PM,Y,Helen Bothwell,,Fruit,,,
+NSW0421,Eucalyptus melliodora,-30.74259594,151.1421841,849.203857,WGS84,14-OCT-19 1:54:52PM,Y,Helen Bothwell,,"Mid-aged Emel, finally lots of fruit",,,
+NSW0424,Eucalyptus melliodora,-30.71791652,151.007706,856.654053,WGS84,14-OCT-19 3:00:10PM,Y,Helen Bothwell,,"Big Emel, plenty of large fruit, axial inflor, just done flowering",,,
+NSW0431,Eucalyptus melliodora,-33.56762814,149.7169738,752.592041,WGS84,15-OCT-19 4:17:38PM,Y,Helen Bothwell,,Fruits smaller,,,
+NSW0437,Eucalyptus melliodora,-33.64004829,149.1013271,691.30835,WGS84,15-OCT-19 6:18:31PM,Y,Helen Bothwell,,"LOTS of fruits & more normal Emel size, mostly 5-valved but some 6, flowering, 7 axial inflor.",,,
+NSW0438,Eucalyptus melliodora,-33.64965747,149.0052041,662.229004,WGS84,15-OCT-19 6:47:26PM,Y,Helen Bothwell,,"Huge old Emel, loaded w fruits, flowers, bees",,,
+NSW0476,Eucalyptus sideroxylon,-34.27466204,148.8474648,518.753174,WGS84,16-OCT-19 10:21:50AM,Y,Helen Bothwell,,Lots of fruits,,,
+NSW0480,Eucalyptus sideroxylon (hyb?),-34.31748418,148.9161931,618.008545,WGS84,16-OCT-19 11:17:01AM,Y,Helen Bothwell,,"Flowers v white, no pink tinge, some leaves ovate, hyb w Emel?? Some typical Esid big fruits",,,
+NSW0481,Eucalyptus sideroxylon,-34.31118568,148.9761603,645.165527,WGS84,16-OCT-19 11:33:25AM,Y,Helen Bothwell,,"Lots of white flowers and fruit, classic leaves, lots of ants pollinating flowers",,,
+NSW0482,Eucalyptus sideroxylon,-34.30988138,148.9898644,616.085938,WGS84,16-OCT-19 11:42:28AM,Y,Helen Bothwell,,"White flowers, ants, and lots of fruit",,,
+NSW0484,Eucalyptus sideroxylon,-34.28507941,149.0287272,519.714478,WGS84,16-OCT-19 12:02:30PM,F,Helen Bothwell,,"Pink flowers, only 2 fruits, good drooping inflor, leaves a bit smaller/softer than typical",,,
+NSW0486,Eucalyptus melliodora,-34.38329268,149.0343094,614.403564,WGS84,16-OCT-19 12:28:10PM,Y,Helen Bothwell,,"Big beautiful old Emel, perfect, lots of plump 5-valved fruits, 7 axial inflor",,,
+NSW0487,Eucalyptus melliodora,-34.48603319,148.9311878,602.627686,WGS84,16-OCT-19 12:56:59PM,Y,Helen Bothwell,,Lots of good fruits,,,
+NSW0489,Eucalyptus sideroxylon,-33.93080737,147.1581723,293.325684,WGS84,18-OCT-19 3:44:11PM,Y,Helen Bothwell,,Some fruits,,,
+NSW0490,Eucalyptus melliodora,-34.69272405,148.9693071,664.632324,WGS84,16-OCT-19 1:33:32PM,Y,Helen Bothwell,,"Lots of good fruits, old Emel",,,
+NSW0492,Eucalyptus sideroxylon,-33.93868377,147.1302972,296.690308,WGS84,18-OCT-19 3:58:25PM,Y,Helen Bothwell,,Right next to 491 but LOTS of fruit,,,
+NSW0493,Eucalyptus sideroxylon,-33.94302073,147.1145585,306.303467,WGS84,18-OCT-19 4:07:42PM,Y,Helen Bothwell,,TONS of fruit,,,
+NSW0494,Eucalyptus sideroxylon,-33.94773128,147.0971715,313.513306,WGS84,18-OCT-19 4:17:11PM,Y,Helen Bothwell,,Lots of fruit,,,
+NSW0495,Eucalyptus sideroxylon,-33.95573407,147.0661001,298.853271,WGS84,18-OCT-19 4:29:44PM,Y,Helen Bothwell,,Lots of fruit,,,
+NSW0496,Eucalyptus sideroxylon,-33.95784513,147.0453473,286.836914,WGS84,18-OCT-19 4:38:12PM,Y,Helen Bothwell,,Lots of fruit,,,
+NSW0497,Eucalyptus sideroxylon,-33.97550781,147.0083627,278.425415,WGS84,18-OCT-19 4:52:36PM,Y,Helen Bothwell,,Some fruit,,,
+NSW0498,Eucalyptus sideroxylon,-33.96665091,147.0426918,288.278931,WGS84,18-OCT-19 5:02:02PM,Y,Helen Bothwell,,"Some fruits, leaves covered in pathogens",,,
+NSW0499,Eucalyptus sideroxylon,-33.98054064,147.0673416,284.914307,WGS84,18-OCT-19 5:18:12PM,Y,Helen Bothwell,,Some fruit,,,
+NSW0500,Eucalyptus sideroxylon,-33.98532202,147.1109629,282.510986,WGS84,18-OCT-19 5:31:27PM,N,Helen Bothwell,,Leaves only,,,
+NSW0501,Eucalyptus sideroxylon,-33.98577724,147.1484845,287.557861,WGS84,18-OCT-19 5:43:05PM,Y,Helen Bothwell,,Fruits,,,
+NSW0502,Eucalyptus sideroxylon,-33.79060663,147.0970984,300.776001,WGS84,18-OCT-19 6:28:44PM,Y,Helen Bothwell,,Lots of smallish fruits,,,
+NSW0503,Eucalyptus sideroxylon,-33.77886292,147.0590381,280.588379,WGS84,18-OCT-19 6:53:16PM,Y,Helen Bothwell,,Many fruits,,,
+NSW0504,Eucalyptus sideroxylon,-33.77181005,147.0460198,302.217896,WGS84,18-OCT-19 7:00:39PM,Y,Helen Bothwell,,Many fruits,,,
+NSW0505,Eucalyptus sideroxylon,-33.85499826,147.3780592,264.005737,WGS84,19-OCT-19 9:47:46AM,F,Helen Bothwell,,Just a few fruits,,,
+NSW0506,Eucalyptus sideroxylon,-33.82323411,147.3650443,269.533325,WGS84,19-OCT-19 10:01:59AM,Y,Helen Bothwell,,Lots of fruit,,,
+NSW0507,Eucalyptus sideroxylon,-33.81432943,147.3661022,271.215698,WGS84,19-OCT-19 10:14:20AM,Y,Helen Bothwell,,~8 fruits,,,
+NSW0508,Eucalyptus sideroxylon,-34.0877736,147.1423743,281.309326,WGS84,19-OCT-19 11:05:45AM,Y,Helen Bothwell,,Fruits and leaves on smaller side,,,
+NSW0509,Eucalyptus sideroxylon,-34.12744381,147.1250512,317.358643,WGS84,19-OCT-19 11:18:38AM,Y,Helen Bothwell,,Fruits and leaves on smaller side,,,
+NSW0510,Eucalyptus sideroxylon (hyb?),-34.13608228,147.1169113,316.637573,WGS84,19-OCT-19 11:32:41AM,Y,Helen Bothwell,,"Bark grayer, leaves and fruits smaller, leaves hammered w pathogens",,,
+NSW0512,Eucalyptus sideroxylon,-34.12057702,146.9954963,294.046753,WGS84,19-OCT-19 12:03:00PM,Y,Helen Bothwell,,"Good leaves and larger fruits, red-tinged bark furrows, lots of fruit, pathogens",,,
+NSW0513,Eucalyptus sideroxylon,-34.11738225,146.971972,289.961182,WGS84,19-OCT-19 12:11:18PM,N,Helen Bothwell,,"Leaves only; finally a tree not loaded w pathogens, healthy looking leaves",,,
+NSW0514,Eucalyptus sideroxylon,-34.15737776,146.9196113,314.9552,WGS84,19-OCT-19 12:28:48PM,Y,Helen Bothwell,,Lots of fruits and pathogens,,,
+NSW0515,Eucalyptus sideroxylon,-34.1610798,146.84587,202.241455,WGS84,19-OCT-19 12:44:42PM,Y,Helen Bothwell,,Many fruits,,,
+NSW0516,Eucalyptus sideroxylon,-34.21314491,146.7332754,177.728149,WGS84,19-OCT-19 1:42:01PM,Y,Helen Bothwell,,Fruits and lots of leaf pathogens,,,
+NSW0517,Eucalyptus sideroxylon,-34.22329808,146.7314815,181.333008,WGS84,19-OCT-19 1:48:26PM,Y,Helen Bothwell,,"Lots of fruits, healthier leaves",,,
+NSW0518,Eucalyptus sideroxylon (hyb?),-34.2451176,146.757917,198.156006,WGS84,19-OCT-19 1:58:11PM,Y,Helen Bothwell,,Leaves and fruits small for Esid,,,
+NSW0519,Eucalyptus sideroxylon (hyb?),-34.25519357,146.7759933,208.249756,WGS84,19-OCT-19 2:10:33PM,F,Helen Bothwell,,"Leaves and fruits small for Esid, bark a bit grayer",,,
+NSW0520,Eucalyptus sideroxylon,-34.27350392,146.7518532,193.109131,WGS84,19-OCT-19 2:28:59PM,Y,Helen Bothwell,,"Good Esid, lots of big plump fruits, healthy larger leaves",,,
+NSW0521,Eucalyptus sideroxylon,-34.28865999,146.7977522,228.437256,WGS84,19-OCT-19 2:37:03PM,Y,Helen Bothwell,,Lots of fruit,,,
+NSW0523,Eucalyptus melliodora,-34.7388676,146.5693881,163.308472,WGS84,19-OCT-19 4:12:44PM,Y,Helen Bothwell,,"LOADED with flowers and bees, some fruit",,,
+NSW0524,Eucalyptus melliodora,-34.77032237,146.5497958,151.772705,WGS84,20-OCT-19 9:28:03AM,Y,Helen Bothwell,,"HEAVY with flowers, lots of good 5-valved fruits, 7 axial inflor.",,,
+NSW0525,Eucalyptus melliodora,-35.06083787,147.0545087,174.123169,WGS84,20-OCT-19 10:16:14AM,Y,Helen Bothwell,,"HUGE old Emel, good 5-valved fruits, heavy with flowers and bees",,,
+NSW0526,Eucalyptus melliodora,-35.07905753,147.1103599,177.007202,WGS84,20-OCT-19 10:33:55AM,Y,Helen Bothwell,,"ENORMOUS old Emel, heavy w flowers and bees, some fruits",,,
+NSW0528,Eucalyptus melliodora,-35.05788468,147.1865108,179.650757,WGS84,20-OCT-19 11:24:33AM,Y,Helen Bothwell,,"Lots of plump 4/5 valved fruits, just finishing flowering",,,
+NSW0530,Eucalyptus melliodora,-35.02321906,147.4172187,258.958862,WGS84,20-OCT-19 12:28:35PM,Y,Helen Bothwell,,"Lots of fruits 4/5/6, quite rough bark, greener leaves, just finishing flowering",,,
+NSW0531,Eucalyptus melliodora,-34.97712839,147.4391223,226.995361,WGS84,20-OCT-19 12:43:58PM,Y,Helen Bothwell,,"Many 5-valved fruits, more classic Emel bark and juvenile leaves, just finishing flowering",,,
+NSW0532,Eucalyptus melliodora,-34.82400267,147.5225195,267.370361,WGS84,20-OCT-19 1:32:23PM,Y,Helen Bothwell,,"Many 4 some 5-valved fruits, more barrel than cup shaped, bottom bark very rough, good juvenile leaves, just done flowering",,,
+NSW0533,Eucalyptus melliodora,-34.71558318,147.5382085,294.527344,WGS84,20-OCT-19 2:09:54PM,Y,Helen Bothwell,,"A lot of the ALA 'Emel' in this area seem otherwise, bottom bark pretty rough and a bit pealy, leaves greener, fruits smaller 4/5 barrels",,,
+NSW0538,Eucalyptus melliodora,-34.8016924,147.5910846,291.162842,WGS84,20-OCT-19 3:41:58PM,Y,Helen Bothwell,,"Emel bark, leaves, good 5-valved fruits (fruits a bit small)",,,
+NSW0539,Eucalyptus melliodora,-34.81067277,147.5715215,288.038574,WGS84,20-OCT-19 3:51:19PM,Y,Helen Bothwell,,"lots of 4/5-valved fruits, smallish cups",,,
+NSW0540,Eucalyptus melliodora,-34.92185226,147.667587,323.847412,WGS84,20-OCT-19 4:26:30PM,Y,Helen Bothwell,,"Good Emel bark, juv leaves, 7 axial inflor, 5-valved fruits small seems typical of the area",,,
+NSW0544,Eucalyptus melliodora,-35.02020249,147.7697033,329.615234,WGS84,20-OCT-19 5:30:36PM,Y,Helen Bothwell,,Lots of good larger 5-valved fruits,,,
+NSW0549,Eucalyptus sideroxylon,-34.735113,147.892117,NA,WGS84,20-OCT-19 6:40:00PM,Y,Helen Bothwell,,Many fruits & leaf pathogens,"Forgot to take GPS pts, long day, extra trees right at sunset, best guess should be pretty close based on Google maps satellite street view",,
+NSW0550,Eucalyptus sideroxylon,-34.722602,147.899144,NA,WGS84,20-OCT-19 6:45:00PM,N,Helen Bothwell,,"Just 1 fruit, lots of mistletoe on the Esid through here, large stand of Esid","Forgot to take GPS pts, long day, extra trees right at sunset, best guess should be pretty close based on Google maps satellite street view",,
+NSW0551,Eucalyptus sideroxylon,-34.711596,147.924809,NA,WGS84,20-OCT-19 6:50:00PM,Y,Helen Bothwell,,"Many fruits, leaves pretty eaten by LARGE black and red ants + mistletoe starts? pale green 'leaf' extensions","Forgot to take GPS pts, long day, extra trees right at sunset, best guess should be pretty close based on Google maps satellite street view",,
+NSW0552,Eucalyptus melliodora,-34.57942729,148.0900447,423.343018,WGS84,21-OCT-19 9:26:33AM,Y,Helen Bothwell,,"Good Emel w fruits, 7 axial inflor",,,
+NSW0554,Eucalyptus melliodora?,-34.48423611,148.1748775,516.59021,WGS84,21-OCT-19 10:00:45AM,Y,Helen Bothwell,,"Big old good Emel, lots of plump fruits, flowering",,,
+NSW0555,Eucalyptus melliodora,-34.52777054,148.2749628,447.375854,WGS84,21-OCT-19 10:27:05AM,Y,Helen Bothwell,,5-valved fruits on smaller side,,,
+NSW0557,Eucalyptus melliodora,-34.64074653,148.570309,484.386353,WGS84,21-OCT-19 11:27:10AM,Y,Helen Bothwell,,Some fruits,,,
+NSW0558,Eucalyptus melliodora,-34.67664412,148.6228865,475.253784,WGS84,21-OCT-19 11:42:49AM,Y,Helen Bothwell,,"Emel or hyb? 7 axial inflor, LOTS of 4/5-valved fruits",,,
+NSW0559,Eucalyptus melliodora,-34.71849429,148.6609773,457.469604,WGS84,21-OCT-19 12:00:18PM,Y,Helen Bothwell,,"fruits 5-valved a few 6-valved, 7 axial inflor",,,
+NSW0569,Eucalyptus sideroxylon,-35.14736007,147.8899114,321.924805,WGS84,21-NOV-19 12:24:06PM,Y,Helen Bothwell & Kevin Murray,,"Some fruit, 2 white flowers, mostly done flowering",,,
+NSW0571,Eucalyptus sideroxylon,-35.30830041,147.7451796,287.798218,WGS84,21-NOV-19 1:41:09PM,N,Helen Bothwell & Kevin Murray,,"White flowers mostly in threes some 4, no fruit",,,
+NSW0574,Eucalyptus sideroxylon,-35.32679591,147.6966688,292.364502,WGS84,21-NOV-19 2:21:05PM,Y,Helen Bothwell & Kevin Murray,,"Many white flowers in 3s, lots of fruits",,,
+NSW0575,Eucalyptus sideroxylon,-35.26109227,147.5934772,318.560181,WGS84,21-NOV-19 2:53:24PM,Y,Helen Bothwell & Kevin Murray,,Many fruits in umbels of 3,,,
+NSW0577,Eucalyptus melliodora,-35.27746313,147.5988384,314.474487,WGS84,21-NOV-19 3:10:15PM,Y,Helen Bothwell & Kevin Murray,,"7 axial inflor, 5-valved fruits, quite rough bark",,,
+NSW0578,Eucalyptus sideroxylon,-35.28500542,147.6088741,343.313843,WGS84,21-NOV-19 3:25:47PM,N,Helen Bothwell & Kevin Murray,,"No fruit, 1-3 flowers, large stand w v little fruiting, mixed with Epol and Ealbens",,,
+NSW0581,Eucalyptus sideroxylon,-35.47152406,147.6383768,454.825928,WGS84,21-NOV-19 4:11:18PM,Y,Helen Bothwell & Kevin Murray,,Some fruits,,,
+NSW0582,Eucalyptus melliodora (possible hyb w E. albens),-35.75537905,147.4700755,312.311646,WGS84,21-NOV-19 5:10:20PM,Y,Helen Bothwell & Kevin Murray,Jingellic Rd SE out of Holbrook,"LOTS of 4/5 fruits, possible hyb w albens as fruit and juv leaves twigs & inflor appear glaucous",,,
+NSW0585,Eucalyptus melliodora,-35.72704713,147.3171916,275.78186,WGS84,21-NOV-19 6:06:49PM,Y,Helen Bothwell & Kevin Murray,,"LOTS of fruit, 5/6-valved, some flowers",,,
+NSW0586,Eucalyptus sideroxylon,-36.13796021,146.6475878,214.498169,WGS84,22-NOV-19 9:56:40AM,Y,Helen Bothwell & Kevin Murray,,"Tons of fruits in 3-5, some perhaps 7 buds",,,
+NSW0588,Eucalyptus melliodora,-36.70668583,145.5224218,161.385864,WGS84,22-NOV-19 11:34:56AM,Y,Helen Bothwell & Kevin Murray,,"Large old tree, lots of 5-valved fruits, leaves larger and greener than usual",,,
+NSW0590,Eucalyptus melliodora,-36.68968306,145.5132778,158.261597,WGS84,22-NOV-19 12:00:13PM,Y,Helen Bothwell & Kevin Murray,,"Lots of 5-valved fruit, axial and terminal, classic 7 inflor, flowering",,,
+NSW0595,Eucalyptus melliodora,-36.47566265,145.5227501,132.546509,WGS84,22-NOV-19 1:28:05PM,Y,Helen Bothwell & Kevin Murray,,"Good fruits, normal larger 5-valved, good juv leaves, flowering, many axial immature fruits",,,
+NSW0597,Eucalyptus melliodora,-36.46380309,145.5955178,137.833618,WGS84,22-NOV-19 1:58:24PM,Y,Helen Bothwell & Kevin Murray,,"Good Emel, many 5-valved fruits, flowering",,,
+NSW0599,Eucalyptus melliodora,-36.34743487,145.6323884,136.151367,WGS84,22-NOV-19 2:45:25PM,Y,Helen Bothwell & Kevin Murray,,"TONS of fruit, flowering",,,
+NSW0602,Eucalyptus melliodora,-36.36247435,145.7416879,161.626221,WGS84,22-NOV-19 3:30:19PM,Y,Helen Bothwell & Kevin Murray,,"Photo mix-up (602 is labeled as 603, first 604 photo is actually 603); some fruits, 5-valved, LOADED w flowers",,,
+NSW0603,Eucalyptus melliodora,-36.36400061,145.7918065,151.532349,WGS84,22-NOV-19 3:57:24PM,Y,Helen Bothwell & Kevin Murray,,"Photo mix-up (602 is labeled as 603, first 604 photo is actually 603); some fruits, all leaves quite small ovate gray-green",,,
+NSW0612,Eucalyptus melliodora,-36.22998018,145.3546983,111.397705,WGS84,23-NOV-19 10:10:17AM,Y,Helen Bothwell & Kevin Murray,,"Good Emel, LOTS of 5 and many 6-valved fruits, 7 axial inflor, TONS of flowers and juv fruits, VERY fecund, good gray-green ovate leaves",,,
+NSW0615,Eucalyptus melliodora,-36.40728895,145.2953203,114.521851,WGS84,23-NOV-19 11:27:58AM,Y,Helen Bothwell & Kevin Murray,,"Good Emel, classic bark and leaves, tons of 5-valved fruits, normal shaped cups, loaded w flowers, 7 axial juv fruits",,,
+NSW0619,Eucalyptus melliodora,-36.21380537,145.2007646,104.668457,WGS84,23-NOV-19 1:24:05PM,Y,Helen Bothwell & Kevin Murray,,"Lots of 5/6 fruit, 7 axial inflor, just finishing flowering",,,
+NSW0625,Eucalyptus melliodora,-36.46959314,145.1566477,118.847778,WGS84,23-NOV-19 3:25:49PM,Y,Helen Bothwell & Kevin Murray,,"Better Emel, 4/5 fruits, loaded w axial and terminal 7-bunched flowers and juv fruits",,,
+NSW0628,Eucalyptus melliodora,-36.58468145,145.2199663,128.460938,WGS84,23-NOV-19 4:27:53PM,Y,Helen Bothwell & Kevin Murray,,"4/5 fruits, lots of axial flowers and young fruits",,,
+NSW0632,Eucalyptus melliodora,-36.56389919,145.2654182,127.980225,WGS84,23-NOV-19 5:37:02PM,Y,Helen Bothwell & Kevin Murray,,"TONS of 5-valved fruits, flowering, lots of inflor, earlier phenology than rest around here, few others still have inflor, most turned to juv fruit, axial 7 and compound terminal?!",,,
+NSW0634,Eucalyptus sideroxylon/tricarpa,-36.57282005,145.0199922,157.781006,WGS84,24-NOV-19 11:01:34AM,Y,Helen Bothwell & Kevin Murray,,"~15-20 fruits, some 5 valved, most 6 valved",,,
+NSW0635,Eucalyptus sideroxylon/tricarpa,-36.58238389,145.0242203,161.866455,WGS84,24-NOV-19 11:23:12AM,Y,Helen Bothwell & Kevin Murray,,"5-valved fruits, quite a few fruits but most too immature; BIG stand/forest through here; a couple white flowers",,,
+NSW0636,Eucalyptus tricarpa,-36.57675636,145.0324082,154.656616,WGS84,24-NOV-19 11:36:36AM,Y,Helen Bothwell & Kevin Murray,,"5-valved cups in 3s; lots of fruits but most too juvenile; leaves of all ironbark through here greener and smaller than typical E. sid, trees rather tall",,,
+NSW0638,Eucalyptus tricarpa,-36.58394937,145.047194,161.385864,WGS84,24-NOV-19 12:00:54PM,Y,Helen Bothwell & Kevin Murray,,"Close to NSW0637, but more mature fruits, mostly 6-valved but some 5-valved",,,
+NSW0640,Eucalyptus tricarpa,-36.60462627,145.0229112,149.129028,WGS84,24-NOV-19 1:10:30PM,Y,Helen Bothwell & Kevin Murray,,"Some fruit, 5-valved tiny vase/tubes",,,
+NSW0641,Eucalyptus sideroxylon/tricarpa,-36.65971658,145.0181855,162.827759,WGS84,24-NOV-19 1:25:34PM,Y,Helen Bothwell & Kevin Murray,,"Leaves look much more typical, longer, tougher, more gray; lots of 5/6-valved fruits; couple white flowers",,,
+NSW0643,Eucalyptus sideroxylon/tricarpa,-36.6739908,145.0166211,170.518188,WGS84,24-NOV-19 1:41:00PM,Y,Helen Bothwell & Kevin Murray,,"TONS of 5-valved fruits; good typical larger tougher leaves, some small too; peduncles in 3s",,,
+NSW0645,Eucalyptus tricarpa,-36.7236042,145.0350827,174.363525,WGS84,24-NOV-19 2:03:33PM,Y,Helen Bothwell & Kevin Murray,,LOTS of 5-valved fruits; more trees through this section with good fruit load,,,
+NSW0646,Eucalyptus tricarpa,-36.74485945,145.0508309,175.805542,WGS84,24-NOV-19 2:22:25PM,Y,Helen Bothwell & Kevin Murray,,Quite a few 5/6 fruits,,,
+NSW0647,Eucalyptus melliodora,-36.79821152,145.0451716,146.966187,WGS84,24-NOV-19 2:34:01PM,Y,Helen Bothwell & Kevin Murray,,TONS of 4/5 fruit; prolific flowering; 7 axial and terminal inflor.,,,
+NSW0648,Eucalyptus sideroxylon/tricarpa,-36.81190739,145.0158986,179.4104,WGS84,24-NOV-19 2:44:49PM,Y,Helen Bothwell & Kevin Murray,,"Many 5/6-valved fruits, fruit on young side",,,
+NSW0650,Eucalyptus melliodora,-36.85160223,144.8751731,160.424561,WGS84,24-NOV-19 3:12:26PM,Y,Helen Bothwell & Kevin Murray,,"Good Emel, LOTS of plump 5-valved fruits",,,
+NSW0655,Eucalyptus sideroxylon/tricarpa hyb??,-37.01049227,144.7784227,303.900269,WGS84,24-NOV-19 4:16:22PM,Y,Helen Bothwell & Kevin Murray,,Esid/tri?? Hyb w ?? 5-valved cupts; fruits and leaves smaller; umbels of 5; white flowers,,,
+NSW0658,Eucalyptus sideroxylon/tricarpa,-37.01464324,144.831663,293.085449,WGS84,24-NOV-19 4:38:33PM,Y,Helen Bothwell & Kevin Murray,,Typical large thick gray leaves; many big 5-valved fruits,,,
+NSW0659,Eucalyptus sideroxylon,-37.02068324,144.8832116,275.78186,WGS84,24-NOV-19 4:57:17PM,F,Helen Bothwell & Kevin Murray,,"Few 5/6-valved fruits, large fruits and leaves",,,
+NSW0661,Eucalyptus sideroxylon,-37.00828783,145.0232347,192.388184,WGS84,24-NOV-19 5:24:10PM,Y,Helen Bothwell & Kevin Murray,,Lots of good 5-valved fruits; larger tougher gray-green leaves; umbels and white flowers in 6s,,,
+NSW0669,Eucalyptus sideroxylon/tricarpa,-37.06037583,145.0340321,204.644897,WGS84,25-NOV-19 11:06:46AM,F,Helen Bothwell & Kevin Murray,,"Just a couple fruits, no inflor or flowers",,,
+NSW0670,Eucalyptus melliodora,-37.07510836,145.03054,171.719849,WGS84,25-NOV-19 11:14:27AM,Y,Helen Bothwell & Kevin Murray,,"Good Emel, lots of 5-valved fruits on smaller side, heavy w 7 axial inflor, no flowers",,,
+NSW0673,Eucalyptus melliodora,-37.10889347,144.961597,207.048096,WGS84,25-NOV-19 11:58:38AM,Y,Helen Bothwell & Kevin Murray,,"Lots of small 4/5 fruits, good ovate leaves, tons of 7 axial inflor",,,
+NSW0675,Eucalyptus melliodora,-37.18870788,144.9654343,227.235596,WGS84,25-NOV-19 12:33:39PM,Y,Helen Bothwell & Kevin Murray,,"TONS of 5-valved fruits, smallish like all in this area, many fruits almost seem pruned as if in the process of dessicating, leaves much healthier than previous several Emel, good gray-green ovate leaves rather than the longer thinner greener leaves of many previous samples around here",,,
+NSW0677,Eucalyptus melliodora,-37.21574756,144.9630981,248.144165,WGS84,25-NOV-19 1:06:39PM,Y,Helen Bothwell & Kevin Murray,,"Lots of small 4/5 fruits, leaves hammered with holes/black, many good 7 axial inflor",,,
+NSW0678,Eucalyptus melliodora,-37.21824068,145.0297231,229.39856,WGS84,25-NOV-19 1:30:43PM,Y,Helen Bothwell & Kevin Murray,,"Huge old Emel, TONS of good plump fruit, 7 axial infor, leaves healthy v productive",,,
+NSW0681,Eucalyptus melliodora,-36.82891527,145.5599929,253.912109,WGS84,25-NOV-19 3:27:38PM,Y,Helen Bothwell & Kevin Murray,,"Good Emel, lots of 5-valved fruits, 1 6-valved, perfect ovate leaves, flowering",,,
+NSW0682,Eucalyptus melliodora,-36.87820162,145.5925634,270.975342,WGS84,25-NOV-19 3:49:11PM,Y,Helen Bothwell & Kevin Murray,,Lots of 5-valved fruit,,,
+NSW0685,Eucalyptus melliodora,-36.98823111,145.6909403,364.222534,WGS84,25-NOV-19 4:43:20PM,Y,Helen Bothwell & Kevin Murray,,"V tall forest, many 4/5-valved fruits but quite small, 7 axial inflor, perfect ovate leaves ",,,
+NSW0687,Eucalyptus melliodora,-36.99042851,145.9890424,336.344482,WGS84,25-NOV-19 5:42:26PM,Y,Helen Bothwell & Kevin Murray,,"Perfect ovate leaves, 7 axial inflor, heaps of 5-valved fruit, a couple flowers",,,
+NSW0689,Eucalyptus melliodora,-36.82334994,146.0078204,252.229736,WGS84,25-NOV-19 6:25:11PM,Y,Helen Bothwell & Kevin Murray,,"Old monster, ~10 5-valved fruits, 7 axial inflor",,,
+NSW0690,Eucalyptus melliodora,-36.74976647,145.9841084,219.064453,WGS84,25-NOV-19 6:38:47PM,Y,Helen Bothwell & Kevin Murray,,"Huge old Emel, heaps of fruit, 5/6-valved, flowering in 7s",,,
+NSW0693,Eucalyptus tricarpa,-36.65700881,145.9723619,191.907471,WGS84,25-NOV-19 7:03:24PM,Y,Helen Bothwell & Kevin Murray,,"Pink flowers, huge fruits in 3-4s, 5-valved, leaves v large and very green",,,
+NSW0696,Eucalyptus sideroxylon,-36.25227026,146.2403332,154.175903,WGS84,26-NOV-19 10:27:42AM,Y,Helen Bothwell & Kevin Murray,,"Close to NSW0695 but has fruit and healthier looking, perfect Esid leaves, fruits in clusters of 3/4/5",,,
+NSW0698,Eucalyptus sideroxylon ?,-36.24428691,146.1827203,234.445435,WGS84,26-NOV-19 10:55:57AM,N,Helen Bothwell & Kevin Murray,,"Dead flowers in 3s, leaves a bit smaller than most Esid, v tall tree",,,
+NSW0700,Eucalyptus sideroxylon,-36.24574788,146.1546351,227.475952,WGS84,26-NOV-19 11:10:49AM,Y,Helen Bothwell & Kevin Murray,,"Some fruits in 3s, 6-valved, good leaves",,,
+NSW0701,Eucalyptus sideroxylon,-36.23739875,146.1312255,197.19458,WGS84,26-NOV-19 11:23:03AM,Y,Helen Bothwell & Kevin Murray,,"Some fruit, in 7s!",,,
+NSW0703,Eucalyptus sideroxylon,-36.20948324,146.1312206,191.186523,WGS84,26-NOV-19 11:44:57AM,Y,Helen Bothwell & Kevin Murray,,"Some fruits, bundles of at least 5",,,
+NSW0704,Eucalyptus sideroxylon,-36.19781404,146.1311256,177.487793,WGS84,26-NOV-19 11:52:51AM,Y,Helen Bothwell & Kevin Murray,,"Several fruits, bundles of 3-5",,,
+NSW0706,Eucalyptus melliodora,-36.13261021,146.2054179,129.662598,WGS84,26-NOV-19 12:30:44PM,Y,Helen Bothwell & Kevin Murray,,"Many 5-valved fruits, TONS of flowers in 7s",,,
+NSW0713,Eucalyptus melliodora,-36.2500022,146.3146025,152.013062,WGS84,26-NOV-19 1:58:23PM,Y,Helen Bothwell & Kevin Murray,,"Floweing, TONS of fruit!",,,
+NSW0725,Eucalyptus melliodora,-36.4303427,146.5481197,200.799561,WGS84,26-NOV-19 4:48:34PM,Y,Helen Bothwell & Kevin Murray,,"HUGE old Emel, fruits, flowering, 7 axial inflor",,,
+NSW0729,Eucalyptus melliodora,-36.47405047,146.6355561,223.630737,WGS84,26-NOV-19 5:25:41PM,Y,Helen Bothwell & Kevin Murray,,"Many 5-valved fruits, flowering, 7 axial inflor",,,
+NSW0731,Eucalyptus melliodora,-36.44887978,146.6900036,334.662231,WGS84,27-NOV-19 12:11:18PM,Y,Helen Bothwell & Kevin Murray,,"Lots of 5/6-valved fruits, flowering",,,
+NSW0734,Eucalyptus melliodora,-36.40131961,146.6911364,565.376953,WGS84,27-NOV-19 12:36:56PM,Y,Helen Bothwell & Kevin Murray,,"Big old Emel, v productive, lots of 4/5/6-valved fruit, 7 axial inflor., perfect gray-green ovate leaves",,,
+NSW0735,Eucalyptus sideroxylon,-36.10311831,146.6144493,234.205078,WGS84,27-NOV-19 1:40:34PM,N,Helen Bothwell & Kevin Murray,,"Leaves only, lots of Esid around but all v tall in forest, no seed, leaves real ragged, holes and black necrosis",,,
+NSW0740,Eucalyptus melliodora,-35.9435879,146.5794818,149.369385,WGS84,27-NOV-19 2:35:47PM,Y,Helen Bothwell & Kevin Murray,,"Huge old Emel, lots of 4/5 fruits and juv fruits, done flowering, 7 axial inflor",,,
+NSW0741,Eucalyptus melliodora,-35.87308243,146.5445732,150.330688,WGS84,27-NOV-19 2:52:33PM,Y,Helen Bothwell & Kevin Murray,,"Big old Emel, TONS of 5-valved fruits, flowering",,,
+NSW0747,Eucalyptus melliodora,-35.76691481,146.5847807,183.976563,WGS84,27-NOV-19 4:12:47PM,Y,Helen Bothwell & Kevin Murray,,Plenty of 5/6-valved fruits,,,
+NSW0749,Eucalyptus melliodora,-35.7650464,146.6406681,186.860474,WGS84,27-NOV-19 4:35:51PM,Y,Helen Bothwell & Kevin Murray,,"SUPER productive, fruits mostly 5-valved, some 6, flowering",,,

@@ -142,7 +142,7 @@ varcall:
   # filters to be performed on a per-allele basis.
   filters:
     default: >
-      -i 'QUAL >= 10 &&
+      -i 'QUAL >= 25 &&
           ALT != "." &&
           INFO/DP >= 5 &&
           INFO/AN >= 3'
