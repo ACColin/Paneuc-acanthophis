@@ -5,7 +5,7 @@ jobscript: "gadi/jobscript.sh"
 jobs: 900
 #immediate-submit: true
 verbose: false
-notemp: true
+#notemp: true
 use-conda: true
 conda-frontend: mamba
 rerun-incomplete: true
