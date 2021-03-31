@@ -171,6 +171,7 @@ cluster_resources:
   max_values:
     mem_gb: 192
     time_min: 2880 # 48h
+    localdisk_gb: 350
   rules:
     # A mapping of rule_name: resource overrides, e.g.
     # qcreads:
