@@ -185,3 +185,5 @@ cluster_resources:
       localdisk_gb: 200
     kraken:
       time_min: 60
+    mpileup:
+      time_min: 1440

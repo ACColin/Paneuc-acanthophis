@@ -2,7 +2,7 @@ cluster: "gadi/jobsubmit"
 cluster-config: "gadi/cluster.yml"
 cluster-status: "gadi/jobstatus"
 jobscript: "gadi/jobscript.sh"
-jobs: 900
+jobs: 990
 #immediate-submit: true
 verbose: false
 #notemp: true
