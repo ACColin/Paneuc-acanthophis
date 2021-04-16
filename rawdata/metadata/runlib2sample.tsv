@@ -183,8 +183,8 @@ run	library	sample	include	project	date
 2020_Borevitz_UWA_S4	E_leucophloia_2	Eucalyptus_leucophloia	Y	EucPan	2020-01
 2020_Borevitz_UWA_S4	Eucalyptus_marginata_ANBG_1	Eucalyptus_marginata_ANBG	Y	EucPan	2020-01
 2020_Borevitz_UWA_S4	Eucalyptus_marginata_ANBG_2	Eucalyptus_marginata_ANBG	Y	EucPan	2020-01
-2020_Borevitz_UWA_S4	Eucalyptus_melliodora_1	Eucalyptus_melliodora	Y	EucPan	2020-01
-2020_Borevitz_UWA_S4	Eucalyptus_melliodora_2	Eucalyptus_melliodora	Y	EucPan	2020-01
+2020_Borevitz_UWA_S4	Eucalyptus_melliodora_1	EmelCSIRO	Y	EucPan	2020-01
+2020_Borevitz_UWA_S4	Eucalyptus_melliodora_2	EmelCSIRO	Y	EucPan	2020-01
 2020_Borevitz_UWA_S4	Eucalyptus_microcorys_ANBG_1	Eucalyptus_microcorys_ANBG	Y	EucPan	2020-01
 2020_Borevitz_UWA_S4	Eucalyptus_microcorys_ANBG_2	Eucalyptus_microcorys_ANBG	Y	EucPan	2020-01
 2020_Borevitz_UWA_S4	Eucalyptus_morrisbyi_UTAS_Campus_1	Eucalyptus_morrisbyi_UTAS_Campus	Y	EucPan	2020-01

@@ -1,0 +1,28 @@
+library(tidyverse)
+
+
+runlib.from.seq = read_tsv("runlib.tsv", col_names=c("run", "library")) %>%
+    unique()
+
+runlib2samp = read_tsv("runlib2sample.tsv")
+
+nomatch = anti_join(runlib.from.seq, runlib2samp, by=c("run", "library"))
+
+old = read_csv("old.csv") %>%
+    unique() %>%
+    mutate(run=ifelse(run == "2020-S4-BVZ", "2020_Borevitz_UWA_S4", run)) %>%
+    rename_with(tolower)
+str(old)
+
+
+missing = left_join(nomatch, old, by=c("run", "library"))
+View(missing)
+
+
+runlib = runlib.from.seq %>%
+    left_join(runlib2samp, by=c("run", "library")) %>%
+    left_join(missing, by=c("run", "library")) %>%
+    filter(!grepl("blank", library, ignore.case=T))
+
+write_tsv(runlib, "runlib2sample2.tsv", na="")
+
