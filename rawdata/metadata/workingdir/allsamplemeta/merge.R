@@ -190,10 +190,7 @@ computedelev = fullmeta %>%
            notes=ifelse(is.na(notes), "elevation computed from api.geonames.org/astergdem", paste0(notes, "; elevation computed from api.geonames.org/astergdem"))) %>%
     select(sample, elevation, notes)
 
-
-View(computedelev)
-
-fullmeta %>%
+fullmeta = fullmeta %>%
     rows_update(computedelev, by="sample")
 
 str(fullmeta)
