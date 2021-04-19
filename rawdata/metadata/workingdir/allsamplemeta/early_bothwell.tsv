@@ -1,0 +1,10 @@
+sample	species	location	date	latitude	longitude	elevation	samplename	datum	population	notes	collectors	seed	parsed_date	computed_elev	elev_err
+CMB0002	Corymbia maculata	W off A1 Hwy S of Batemans' Bay	2018-12-22T17:55:56Z	-35.76518864	150.1498347	10.65988897	NA	WGS84	NA	NA	NA	NA	2018-12-22T17:55:56Z	65	6.097624485858035
+CMB0003	Corymbia maculata	W off A1 Hwy S of Batemans' Bay	2018-12-22T18:21:57Z	-35.76251088	150.1445105	17.83857636	NA	WGS84	NA	NA	NA	NA	2018-12-22T18:21:57Z	63	3.531671963535547
+CMB0004	Corymbia maculata	E down Kianga Rd. off Hwy A1 S of Bateman's Bay	2018-12-22T20:44:32Z	-36.18421901	150.0985728	40.54666008	NA	WGS84	NA	NA	NA	NA	2018-12-22T20:44:32Z	139	3.4281491922083855
+EMW0001	Eucalyptus melliodora	Wombeyan Cave Rd.	2019-01-20T20:04:01Z	-36.18417333	150.0986026	121.3435516	NA	WGS84	NA	NA	Helen Bothwell & Susan Rutherford	Y	2019-01-20T20:04:01Z	139	1.1455079249551157
+EMW0002	Eucalyptus melliodora	Wombeyan Cave Rd.	2019-01-20T20:57:36Z	-34.29426229	150.0163724	163.0970959	NA	WGS84	NA	NA	Helen Bothwell & Susan Rutherford	Y	2019-01-20T20:57:36Z	523	3.2066788014463965
+EMW0003	Eucalyptus melliodora	Wombeyan Cave Rd.	2019-01-20T21:27:50Z	-34.2938706	150.0160115	169.7630332	NA	WGS84	NA	NA	Helen Bothwell & Susan Rutherford	Y	2019-01-20T21:27:50Z	518	3.051312115693277
+EMW0004	Eucalyptus melliodora	Wombeyan Cave Rd.	2019-01-20T22:08:09Z	-34.30037412	150.0047701	193.350133	NA	WGS84	NA	NA	Helen Bothwell & Susan Rutherford	Y	2019-01-20T22:08:09Z	623	3.2221338063418865
+EMW0005	Eucalyptus melliodora	Wombeyan Cave Rd.	2019-01-20T22:25:27Z	-34.30002065	150.0023791	198.5510064	NA	WGS84	NA	Has lots of galls - haven't seen galls on other trees in this area	Helen Bothwell & Susan Rutherford	Y	2019-01-20T22:25:27Z	633	3.188097665567914
+EMW0006	Eucalyptus melliodora	Wombeyan Cave Rd.	2019-01-20T23:33:00Z	-34.31277473	150.0875892	82.37350211	NA	WGS84	NA	NA	Helen Bothwell & Susan Rutherford	Y	2019-01-20T23:33:00Z	269	3.2656132507366573
