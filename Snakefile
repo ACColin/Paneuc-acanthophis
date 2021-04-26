@@ -20,3 +20,13 @@ rule all:
         rules.multiqc.input,
         rules.all_kraken.input,
         rules.all_snpeff.input,
+
+rule samples_bamstats:
+    input:           
+    	[expand("data/alignments/bamstats/sample/{aligner}~{ref}~{sample}.samtools.stats", 
+               ref=config["align"]["refs"],
+               aligner=config["align"]["aligners"],
+               sample=config["SAMPLESETS"][sset])
+	 for sset in config["align"]["samplesets"]]
+
+

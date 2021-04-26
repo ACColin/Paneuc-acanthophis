@@ -101,7 +101,11 @@ align:
     - bwa
   refs:
     - Egrandis_phytozome13_v2
-  samplesets: []
+    - Egrandis_phytozome13_v2
+    - Esideroxylon_GCA_014182405.1
+    - Emelliodora_GCA_004368105.2
+  samplesets:
+    - HBDecra
   ngm: # tool specific settings
     sensitivity: 0.5
   abra2:
