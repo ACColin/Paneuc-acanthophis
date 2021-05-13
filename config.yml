@@ -50,7 +50,18 @@ refs:
     gtf: "rawdata/references/Esideroxylon_GCA_014182405.1/E_sideroxylon~filtered.gtf"
     organism: Eucalyptus sideroxylon
     snpeff_extra_config: ""
-
+  Emelliodora_sf:
+    fasta: "rawdata/references/scott/E_melliodora/E_melliodora_softmask_chl.fasta"
+    gtf: "rawdata/references/scott/E_melliodora/E_melliodora.gtf"
+    organism: Eucalyptus melliodora
+  Ebrandiana_sf:
+    fasta: "rawdata/references/scott/E_brandiana/E_brandiana_softmask_chl.fasta"
+    gtf: "rawdata/references/scott/E_brandiana/E_brandiana.gtf"
+    organism: Eucalyptus brandiana
+  Esideroxylon_sf:
+    fasta: "rawdata/references/scott/E_sideroxylon/E_sideroxylon_softmask_chl.fasta"
+    gtf: "rawdata/references/scott/E_sideroxylon/E_sideroxylon.gtf"
+    organism: Eucalyptus sideroxylon
 
 #######################################################################
 #                               Read QC                               #
@@ -80,6 +91,8 @@ kraken:
   samplesets:
     HBDecra:
       - PlusPFP16
+    RA-Adnataria:
+      - PlusPFP16
 
 
 #######################################################################
@@ -87,6 +100,11 @@ kraken:
 #######################################################################
 multiqc:
   HBDecra:
+    - rawreads
+    - samplereads
+    - bamstats
+    - kraken
+  RA-Adnataria:
     - rawreads
     - samplereads
     - bamstats
@@ -101,11 +119,11 @@ align:
     - bwa
   refs:
     - Egrandis_phytozome13_v2
-    - Egrandis_phytozome13_v2
     - Esideroxylon_GCA_014182405.1
     - Emelliodora_GCA_004368105.2
   samplesets:
     - HBDecra
+    - RA-Adnataria
   ngm: # tool specific settings
     sensitivity: 0.5
   abra2:
@@ -147,6 +165,20 @@ varcall:
         - Egrandis_phytozome13_v2
         - Esideroxylon_GCA_014182405.1
         - Emelliodora_GCA_004368105.2
+      filters:
+        - default
+      snpeff: False
+    RA-Adnataria:
+      theta_prior: 0.01
+      aligners:
+        - bwa
+      callers:
+        - mpileup
+      refs:
+        - Egrandis_phytozome13_v2
+        - Esideroxylon_sf
+        - Emelliodora_sf
+        - Ebrandiana_sf
       filters:
         - default
       snpeff: False
