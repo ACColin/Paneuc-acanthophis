@@ -12,6 +12,8 @@ include: acanthophis.rules.multiqc
 include: acanthophis.rules.kraken
 include: acanthophis.rules.variantannotation
 
+localrules: mpileup, bcfnorm, bcffilter, variantidx, bcfmerge
+
 rule all:
     input:
         rules.reads.input,
@@ -28,5 +30,4 @@ rule samples_bamstats:
                aligner=config["align"]["aligners"],
                sample=config["SAMPLESETS"][sset])
 	 for sset in config["align"]["samplesets"]]
-
 
