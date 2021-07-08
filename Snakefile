@@ -17,11 +17,10 @@ localrules: mpileup, bcfnorm, bcffilter, variantidx, bcfmerge
 rule all:
     input:
         rules.reads.input,
-        rules.align.input,
+        rules.align_samples.input,
         rules.varcall.input,
         rules.multiqc.input,
         rules.all_kraken.input,
-        rules.all_snpeff.input,
 
 rule samples_bamstats:
     input:           

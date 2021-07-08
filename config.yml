@@ -119,8 +119,9 @@ align:
     - bwa
   refs:
     - Egrandis_phytozome13_v2
-    - Esideroxylon_GCA_014182405.1
-    - Emelliodora_GCA_004368105.2
+    # - Esideroxylon_sf
+    # - Emelliodora_sf
+    - Ebrandiana_sf
   samplesets:
     - HBDecra
     - RA-Adnataria
@@ -163,8 +164,9 @@ varcall:
         - mpileup
       refs:
         - Egrandis_phytozome13_v2
-        - Esideroxylon_GCA_014182405.1
-        - Emelliodora_GCA_004368105.2
+        # - Esideroxylon_sf
+        # - Emelliodora_sf
+        - Ebrandiana_sf
       filters:
         - default
       snpeff: False
@@ -176,8 +178,8 @@ varcall:
         - mpileup
       refs:
         - Egrandis_phytozome13_v2
-        - Esideroxylon_sf
-        - Emelliodora_sf
+        # - Esideroxylon_sf
+        # - Emelliodora_sf
         - Ebrandiana_sf
       filters:
         - default

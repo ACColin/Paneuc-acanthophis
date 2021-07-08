@@ -2,7 +2,7 @@ cluster: "gadi/jobsubmit"
 cluster-config: "gadi/cluster.yml"
 cluster-status: "gadi/jobstatus"
 jobscript: "gadi/jobscript.sh"
-jobs: 990
+jobs: 500
 #immediate-submit: true
 verbose: false
 #notemp: true
@@ -16,5 +16,5 @@ max-status-checks-per-second: 20
 latency-wait: 60
 local-cores: 1
 restart-times: 3
-scheduler: greedy
+#scheduler: greedy
 printshellcmds: true
