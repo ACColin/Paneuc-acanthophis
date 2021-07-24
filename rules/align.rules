@@ -3,7 +3,7 @@
 #######################################################################
 rule ngmap:
     input:
-        reads="data/reads/runs/{run}~{lib}.fastq.gz",
+        reads=ancient("data/reads/runs/{run}~{lib}.fastq.gz"),
         ref=lambda wc: config['refs'][wc.ref]["fasta"],
     output:
         bam=temp("data/alignments/byrun.raw/ngm/{ref}/{run}~{lib}~{sample}.bam"),
@@ -53,7 +53,7 @@ rule bwaidx:
 
 rule bwamem:
     input:
-        reads="data/reads/runs/{run}~{lib}.fastq.gz",
+        reads=ancient("data/reads/runs/{run}~{lib}.fastq.gz"),
         ref=lambda wc: config['refs'][wc.ref]["fasta"],
         bwaidx=lambda wc: config['refs'][wc.ref]["fasta"]+ ".pac",
     output:

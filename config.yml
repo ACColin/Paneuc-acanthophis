@@ -91,8 +91,10 @@ kraken:
   samplesets:
     HBDecra:
       - PlusPFP16
+      - PlusPFPEuc
     RA-Adnataria:
       - PlusPFP16
+      - PlusPFPEuc
 
 
 #######################################################################
@@ -119,7 +121,7 @@ align:
     - bwa
   refs:
     - Egrandis_phytozome13_v2
-    # - Esideroxylon_sf
+    - Esideroxylon_sf
     # - Emelliodora_sf
     - Ebrandiana_sf
   samplesets:
@@ -164,11 +166,12 @@ varcall:
         - mpileup
       refs:
         - Egrandis_phytozome13_v2
-        # - Esideroxylon_sf
-        # - Emelliodora_sf
+        - Esideroxylon_sf
+          #- Emelliodora_sf
         - Ebrandiana_sf
       filters:
         - default
+        - keepnocov
       snpeff: False
     RA-Adnataria:
       theta_prior: 0.01
@@ -178,11 +181,12 @@ varcall:
         - mpileup
       refs:
         - Egrandis_phytozome13_v2
-        # - Esideroxylon_sf
-        # - Emelliodora_sf
+        - Esideroxylon_sf
+          #- Emelliodora_sf
         - Ebrandiana_sf
       filters:
         - default
+        - keepnocov
       snpeff: False
 
   # Filters. These are series of command line arguments to pass to bcftools
@@ -190,11 +194,14 @@ varcall:
   # into multiple overlapping variant calls. This allows e.g. allele frequency
   # filters to be performed on a per-allele basis.
   filters:
+    none: ""
     default: >
       -i 'QUAL >= 25 &&
           ALT != "." &&
           INFO/DP >= 5 &&
           INFO/AN >= 3'
+    keepnocov: >
+      -i 'ALT != "." || (QUAL >= 25 && INFO/DP >= 5 && INFO/AN >= 3)'
 
 #######################################################################
 #                        Cluster Configuration                        #
@@ -223,5 +230,6 @@ cluster_resources:
       localdisk_gb: 200
     kraken:
       time_min: 60
+      mem_gb: 90
     mpileup:
       time_min: 1440

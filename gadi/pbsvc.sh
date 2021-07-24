@@ -16,7 +16,7 @@ set -xueo pipefail
 
 
 regionparallel \
-    -r "rawdata/references/$REF" \
+    -r "$REF" \
     -s 2000000 \
     "conda activate paneuc-acanthophis; snakemake --allowed-rules mpileup --notemp --use-conda --conda-frontend mamba\
      --ri -j 1 -p --nolock data/variants/raw_split/${KEY}/{region}.bcf"
